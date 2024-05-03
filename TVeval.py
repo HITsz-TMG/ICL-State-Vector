@@ -352,3 +352,68 @@ class ICLVectorEvaluator():
             return topk['none']
         return topk
 
+    def indirect_act_effect(self, dummy_queries, dev_data, valid_data, n_top_heads=10, question_prompt='{input}', format_dict={}):
+        task_vector_list = []
+        for i, (dummy_query, dev) in enumerate(zip(dummy_queries, dev_data)):
+            demon = []
+            for example in dev:
+                question = question_prompt.format_map(example)
+                answer = example['output']
+                demon.append((question, answer))
+            dummy_query = question_prompt.format_map(dummy_query)
+            task_vector, _ = self.evaluator.read_activation(dummy_query, demon, None, format_dict)
+            task_vector_list.append(task_vector)
+
+        task_vector = self.avg_tv(task_vector_list)
+        task_vector = {k: v['test'] for k, v in task_vector.items()}
+
+        indirect_effect = []
+        for d in valid_data:
+            query = question_prompt.format_map(d)
+            demon = []
+            labels_map = list(range(len(d['demon'])))
+            random.shuffle(labels_map)
+            for x, example in enumerate(d['demon']):
+                question = question_prompt.format_map(example)
+                answer = d['demon'][labels_map[x]]['output']
+                demon.append((question, answer))
+
+            ind_effects_logits = self.evaluator.indirect_effect(query, task_vector, demon, "replace", format_dict)
+            answer_ids = self.evaluator.get_answer_id(query=query, answer=d['output'], proj_tokens=format_dict.get("proj_tokens"))
+            indirect_effect.append(ind_effects_logits[:,:,answer_ids[0]])
+        indirect_effect = torch.stack(indirect_effect,dim=0).mean(dim=0)
+
+        function_vector, top_head = self.evaluator.compute_topk_effect(task_vector, indirect_effect, n_top_heads)
+
+        return task_vector, function_vector, top_head
+
+    def eval_act_effect(self, function_vector, test_data, layer_indices=None, fs_eval=False, shuffle_labels=False, intervention_mode='replace', add_to='hidden', question_prompt='{input}', format_dict={}):
+        function_vector = {x: function_vector for x in layer_indices}
+
+        logit_list = []
+        answer_ids_list = []
+        for d in test_data:
+            query = question_prompt.format_map(d)
+            demon = []
+            if fs_eval:
+                labels_map = list(range(len(d['demon'])))
+                if shuffle_labels:
+                    random.shuffle(labels_map)
+                for x, example in enumerate(d['demon']):
+                    question = question_prompt.format_map(example)
+                    answer = d['demon'][labels_map[x]]['output']
+                    demon.append((question, answer))
+
+            if add_to == 'hidden':
+                logits = self.evaluator.write_hidden(query, function_vector, demon, intervention_mode, format_dict)
+                logit_list.append(logits)
+            else:
+                logits = self.evaluator.write_wo_outputs(query, function_vector, demon, intervention_mode, format_dict)
+                logit_list.append(logits)
+            answer_ids = self.evaluator.get_answer_id(query=query, answer=d['output'], proj_tokens=format_dict.get("proj_tokens"))
+            answer_ids_list.append(answer_ids)
+
+        top_k = top_k_metric(self.config['top_k'], logit_list, answer_ids_list)
+        return top_k
+
+

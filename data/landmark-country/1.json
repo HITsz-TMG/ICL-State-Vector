@@ -1,0 +1,3356 @@
+{
+  "demon": [
+    {
+      "input": "Theni district",
+      "output": "India"
+    },
+    {
+      "input": "Porto Azzurro",
+      "output": "Italy"
+    },
+    {
+      "input": "Bay",
+      "output": "Philippines"
+    },
+    {
+      "input": "Kafriya",
+      "output": "Syria"
+    },
+    {
+      "input": "Lipscani",
+      "output": "Romania"
+    },
+    {
+      "input": "Parippally",
+      "output": "India"
+    },
+    {
+      "input": "Giurgiu County",
+      "output": "Romania"
+    },
+    {
+      "input": "Emba River",
+      "output": "Kazakhstan"
+    },
+    {
+      "input": "Breege",
+      "output": "Germany"
+    },
+    {
+      "input": "Selbu",
+      "output": "Norway"
+    }
+  ],
+  "test": [
+    {
+      "input": "Pazhayangadi",
+      "output": "India"
+    },
+    {
+      "input": "Alfred Wegener Institute for Polar and Marine Research",
+      "output": "Germany"
+    },
+    {
+      "input": "Persegres Gresik United",
+      "output": "Indonesia"
+    },
+    {
+      "input": "Gmina Stara Kornica",
+      "output": "Poland"
+    },
+    {
+      "input": "Central Black Forest",
+      "output": "Germany"
+    },
+    {
+      "input": "La Ribera Baixa",
+      "output": "Spain"
+    },
+    {
+      "input": "Narman",
+      "output": "Turkey"
+    },
+    {
+      "input": "Bad Schwalbach",
+      "output": "Germany"
+    },
+    {
+      "input": "Lund Municipality",
+      "output": "Sweden"
+    },
+    {
+      "input": "Khasavyurt",
+      "output": "Russia"
+    },
+    {
+      "input": "Nova Friburgo",
+      "output": "Brazil"
+    },
+    {
+      "input": "Sardent",
+      "output": "France"
+    },
+    {
+      "input": "Plougonven",
+      "output": "France"
+    },
+    {
+      "input": "Munich",
+      "output": "Germany"
+    },
+    {
+      "input": "Mbale District",
+      "output": "Uganda"
+    },
+    {
+      "input": "Gaiola",
+      "output": "Italy"
+    },
+    {
+      "input": "Fort Madalena",
+      "output": "Malta"
+    },
+    {
+      "input": "ERT World",
+      "output": "Greece"
+    },
+    {
+      "input": "Honnavar",
+      "output": "India"
+    },
+    {
+      "input": "Iximche",
+      "output": "Guatemala"
+    },
+    {
+      "input": "Suwayq",
+      "output": "Oman"
+    },
+    {
+      "input": "Iruma Air Base",
+      "output": "Japan"
+    },
+    {
+      "input": "Cairo American College",
+      "output": "Egypt"
+    },
+    {
+      "input": "Shablykinsky District",
+      "output": "Russia"
+    },
+    {
+      "input": "Minamiakita District",
+      "output": "Japan"
+    },
+    {
+      "input": "National Congress of Brasil",
+      "output": "Brazil"
+    },
+    {
+      "input": "Gio Linh",
+      "output": "Vietnam"
+    },
+    {
+      "input": "Big Timothy Mountain",
+      "output": "Canada"
+    },
+    {
+      "input": "Vijayawada Junction railway station",
+      "output": "India"
+    },
+    {
+      "input": "La famille Plouffe",
+      "output": "Canada"
+    },
+    {
+      "input": "Guelma Province",
+      "output": "Algeria"
+    },
+    {
+      "input": "Mumiy Troll",
+      "output": "Russia"
+    },
+    {
+      "input": "Imsland",
+      "output": "Norway"
+    },
+    {
+      "input": "Ausa",
+      "output": "India"
+    },
+    {
+      "input": "Atwell Peak",
+      "output": "Canada"
+    },
+    {
+      "input": "Al Daayen",
+      "output": "Qatar"
+    },
+    {
+      "input": "Coolock",
+      "output": "Ireland"
+    },
+    {
+      "input": "Bispebjerg",
+      "output": "Denmark"
+    },
+    {
+      "input": "Western Bug",
+      "output": "Belarus"
+    },
+    {
+      "input": "Boguchany Dam",
+      "output": "Russia"
+    },
+    {
+      "input": "Roman Catholic Archdiocese of Ljubljana",
+      "output": "Slovenia"
+    },
+    {
+      "input": "Umarex",
+      "output": "Germany"
+    },
+    {
+      "input": "Kennedy Highway",
+      "output": "Australia"
+    },
+    {
+      "input": "Hida Mountains",
+      "output": "Japan"
+    },
+    {
+      "input": "Huachocolpa District",
+      "output": "Peru"
+    },
+    {
+      "input": "Ruhla",
+      "output": "Germany"
+    },
+    {
+      "input": "Kume District",
+      "output": "Japan"
+    },
+    {
+      "input": "Vierlingsbeek",
+      "output": "Netherlands"
+    },
+    {
+      "input": "Gmina Sorkwity",
+      "output": "Poland"
+    },
+    {
+      "input": "Gmina Warlubie",
+      "output": "Poland"
+    },
+    {
+      "input": "Maybach",
+      "output": "Germany"
+    },
+    {
+      "input": "FC Volochanin-Ratmir Vyshny Volochyok",
+      "output": "Russia"
+    },
+    {
+      "input": "Uromi",
+      "output": "Nigeria"
+    },
+    {
+      "input": "Morshi",
+      "output": "India"
+    },
+    {
+      "input": "Rudrur",
+      "output": "India"
+    },
+    {
+      "input": "Minamishitara District, Aichi",
+      "output": "Japan"
+    },
+    {
+      "input": "Imperia",
+      "output": "Italy"
+    },
+    {
+      "input": "Piove di Sacco",
+      "output": "Italy"
+    },
+    {
+      "input": "West Darfur",
+      "output": "Sudan"
+    },
+    {
+      "input": "Virgin Classics",
+      "output": "France"
+    },
+    {
+      "input": "Queens Gardens, Brisbane",
+      "output": "Australia"
+    },
+    {
+      "input": "Marugame",
+      "output": "Japan"
+    },
+    {
+      "input": "Kluuvi",
+      "output": "Finland"
+    },
+    {
+      "input": "Sarpsborg 08 FF",
+      "output": "Norway"
+    },
+    {
+      "input": "Ledaal",
+      "output": "Norway"
+    },
+    {
+      "input": "Harnaut",
+      "output": "India"
+    },
+    {
+      "input": "Minamiarupusu",
+      "output": "Japan"
+    },
+    {
+      "input": "Vinkeveen",
+      "output": "Netherlands"
+    },
+    {
+      "input": "Amarkantak",
+      "output": "India"
+    },
+    {
+      "input": "Valea lui Mihai",
+      "output": "Romania"
+    },
+    {
+      "input": "Thuringian Highland",
+      "output": "Germany"
+    },
+    {
+      "input": "Hattfjelldal",
+      "output": "Norway"
+    },
+    {
+      "input": "Bolpur",
+      "output": "India"
+    },
+    {
+      "input": "Garibaldi Ranges",
+      "output": "Canada"
+    },
+    {
+      "input": "route 75",
+      "output": "Australia"
+    },
+    {
+      "input": "Party for Freedom",
+      "output": "Netherlands"
+    },
+    {
+      "input": "Liverpool Range",
+      "output": "Australia"
+    },
+    {
+      "input": "Ginza",
+      "output": "Japan"
+    },
+    {
+      "input": "Guggenheim Museum",
+      "output": "Spain"
+    },
+    {
+      "input": "L'Escala",
+      "output": "Spain"
+    },
+    {
+      "input": "Moi International Sports Centre",
+      "output": "Kenya"
+    },
+    {
+      "input": "Party of National Unity",
+      "output": "Kenya"
+    },
+    {
+      "input": "Santo Spirito in Sassia",
+      "output": "Italy"
+    },
+    {
+      "input": "Bhinmal",
+      "output": "India"
+    },
+    {
+      "input": "Manyakheta",
+      "output": "India"
+    },
+    {
+      "input": "Kowsar County",
+      "output": "Iran"
+    },
+    {
+      "input": "Buchans",
+      "output": "Canada"
+    },
+    {
+      "input": "Bunda District",
+      "output": "Tanzania"
+    },
+    {
+      "input": "Kyōto Prefecture",
+      "output": "Japan"
+    },
+    {
+      "input": "Delta Works",
+      "output": "Netherlands"
+    },
+    {
+      "input": "Chancelade",
+      "output": "France"
+    },
+    {
+      "input": "Queen Charlotte Mountains",
+      "output": "Canada"
+    },
+    {
+      "input": "Poissy",
+      "output": "France"
+    },
+    {
+      "input": "K.S.V. Roeselare",
+      "output": "Belgium"
+    },
+    {
+      "input": "Bose Institute",
+      "output": "India"
+    },
+    {
+      "input": "Annweiler am Trifels",
+      "output": "Germany"
+    },
+    {
+      "input": "Allersberg",
+      "output": "Germany"
+    },
+    {
+      "input": "AMK Hub",
+      "output": "Singapore"
+    },
+    {
+      "input": "Maella",
+      "output": "Spain"
+    },
+    {
+      "input": "New Era University",
+      "output": "Philippines"
+    },
+    {
+      "input": "Ovada",
+      "output": "Italy"
+    },
+    {
+      "input": "Manikata",
+      "output": "Malta"
+    },
+    {
+      "input": "SV Ried",
+      "output": "Austria"
+    },
+    {
+      "input": "Hurley River",
+      "output": "Canada"
+    },
+    {
+      "input": "Loppa",
+      "output": "Norway"
+    },
+    {
+      "input": "National Highway 45",
+      "output": "India"
+    },
+    {
+      "input": "Valdemarsvik",
+      "output": "Sweden"
+    },
+    {
+      "input": "Ginza Line",
+      "output": "Japan"
+    },
+    {
+      "input": "Amos Anderson Art Museum",
+      "output": "Finland"
+    },
+    {
+      "input": "Junnar",
+      "output": "India"
+    },
+    {
+      "input": "2004 IAAF World Cross Country Championships",
+      "output": "Belgium"
+    },
+    {
+      "input": "Weston GO Station",
+      "output": "Canada"
+    },
+    {
+      "input": "Darmstadt",
+      "output": "Germany"
+    },
+    {
+      "input": "Alte Nationalgalerie",
+      "output": "Germany"
+    },
+    {
+      "input": "Capolago",
+      "output": "Switzerland"
+    },
+    {
+      "input": "Prieto Diaz",
+      "output": "Philippines"
+    },
+    {
+      "input": "Passeier Valley",
+      "output": "Italy"
+    },
+    {
+      "input": "Kuala Langat",
+      "output": "Malaysia"
+    },
+    {
+      "input": "Veyrier",
+      "output": "Switzerland"
+    },
+    {
+      "input": "Bungsberg",
+      "output": "Germany"
+    },
+    {
+      "input": "Ozumba",
+      "output": "Mexico"
+    },
+    {
+      "input": "Band-e Kaisar",
+      "output": "Iran"
+    },
+    {
+      "input": "Urangan",
+      "output": "Australia"
+    },
+    {
+      "input": "Pindamonhangaba",
+      "output": "Brazil"
+    },
+    {
+      "input": "Isfahan International Airport",
+      "output": "Iran"
+    },
+    {
+      "input": "public transport in Istanbul",
+      "output": "Turkey"
+    },
+    {
+      "input": "Wismar",
+      "output": "Germany"
+    },
+    {
+      "input": "Ankenes",
+      "output": "Norway"
+    },
+    {
+      "input": "Sadr City",
+      "output": "Iraq"
+    },
+    {
+      "input": "Clonlara GAA",
+      "output": "Ireland"
+    },
+    {
+      "input": "Risod",
+      "output": "India"
+    },
+    {
+      "input": "Ballydehob",
+      "output": "Ireland"
+    },
+    {
+      "input": "Canjuers",
+      "output": "France"
+    },
+    {
+      "input": "Warsaw Uprising Museum",
+      "output": "Poland"
+    },
+    {
+      "input": "Menangle Park",
+      "output": "Australia"
+    },
+    {
+      "input": "Whiteshell Laboratories",
+      "output": "Canada"
+    },
+    {
+      "input": "Inuit Circumpolar Council",
+      "output": "Canada"
+    },
+    {
+      "input": "Media Development Authority",
+      "output": "Singapore"
+    },
+    {
+      "input": "prefectural road",
+      "output": "Japan"
+    },
+    {
+      "input": "Tursi",
+      "output": "Italy"
+    },
+    {
+      "input": "La Guajira Desert",
+      "output": "Colombia"
+    },
+    {
+      "input": "West Royalty, Prince Edward Island",
+      "output": "Canada"
+    },
+    {
+      "input": "Ogrodzieniec",
+      "output": "Poland"
+    },
+    {
+      "input": "Piedecuesta",
+      "output": "Colombia"
+    },
+    {
+      "input": "Thamshavn Line",
+      "output": "Norway"
+    },
+    {
+      "input": "Namba Station",
+      "output": "Japan"
+    },
+    {
+      "input": "Hilir Perak",
+      "output": "Malaysia"
+    },
+    {
+      "input": "Tillya Tepe",
+      "output": "Afghanistan"
+    },
+    {
+      "input": "E.ON Sverige",
+      "output": "Sweden"
+    },
+    {
+      "input": "Agios Dimitrios",
+      "output": "Greece"
+    },
+    {
+      "input": "All-Ukrainian Union \"Svoboda\"",
+      "output": "Ukraine"
+    },
+    {
+      "input": "FC Anker Wismar",
+      "output": "Germany"
+    },
+    {
+      "input": "Eurasian Steppe",
+      "output": "Ukraine"
+    },
+    {
+      "input": "Drumheller-Stettler",
+      "output": "Canada"
+    },
+    {
+      "input": "Abbey of Echternach",
+      "output": "Luxembourg"
+    },
+    {
+      "input": "Sonitpur district",
+      "output": "India"
+    },
+    {
+      "input": "Singel",
+      "output": "Netherlands"
+    },
+    {
+      "input": "Dundalk",
+      "output": "Ireland"
+    },
+    {
+      "input": "Peremyshliany",
+      "output": "Ukraine"
+    },
+    {
+      "input": "Palladam",
+      "output": "India"
+    },
+    {
+      "input": "Catalonia",
+      "output": "Spain"
+    },
+    {
+      "input": "Maison du Peuple",
+      "output": "Belgium"
+    },
+    {
+      "input": "Saint Gayane Church",
+      "output": "Armenia"
+    },
+    {
+      "input": "County Leitrim",
+      "output": "Ireland"
+    },
+    {
+      "input": "Amsterdam dance event",
+      "output": "Netherlands"
+    },
+    {
+      "input": "Berar Province",
+      "output": "India"
+    },
+    {
+      "input": "Sarnia",
+      "output": "Canada"
+    },
+    {
+      "input": "Avord",
+      "output": "France"
+    },
+    {
+      "input": "Bhamdoun",
+      "output": "Lebanon"
+    },
+    {
+      "input": "Baron de Hirsch Cemetery, Halifax",
+      "output": "Canada"
+    },
+    {
+      "input": "Grand Mosque of Paris",
+      "output": "France"
+    },
+    {
+      "input": "Veysian Rural District",
+      "output": "Iran"
+    },
+    {
+      "input": "Tesco Organisation",
+      "output": "Germany"
+    },
+    {
+      "input": "Sabratha",
+      "output": "Libya"
+    },
+    {
+      "input": "Buda",
+      "output": "Hungary"
+    },
+    {
+      "input": "Naumburg (Saale)",
+      "output": "Germany"
+    },
+    {
+      "input": "La Mauricie National Park",
+      "output": "Canada"
+    },
+    {
+      "input": "TUIfly Nordic",
+      "output": "Sweden"
+    },
+    {
+      "input": "Villigen",
+      "output": "Switzerland"
+    },
+    {
+      "input": "2004 Indian Ocean earthquake",
+      "output": "Indonesia"
+    },
+    {
+      "input": "City of Cranbourne",
+      "output": "Australia"
+    },
+    {
+      "input": "Santo Stefano d'Aveto",
+      "output": "Italy"
+    },
+    {
+      "input": "Miramichi Centre",
+      "output": "Canada"
+    },
+    {
+      "input": "Etobicoke North",
+      "output": "Canada"
+    },
+    {
+      "input": "Khmilnyk",
+      "output": "Ukraine"
+    },
+    {
+      "input": "Periyar University",
+      "output": "India"
+    },
+    {
+      "input": "VTB Capital",
+      "output": "Russia"
+    },
+    {
+      "input": "Sialkot district",
+      "output": "Pakistan"
+    },
+    {
+      "input": "Sebatik Island",
+      "output": "Malaysia"
+    },
+    {
+      "input": "Alouette Lake",
+      "output": "Canada"
+    },
+    {
+      "input": "Mediolanum Forum",
+      "output": "Italy"
+    },
+    {
+      "input": "Swedish Orphan Biovitrum",
+      "output": "Sweden"
+    },
+    {
+      "input": "Zwiefalten",
+      "output": "Germany"
+    },
+    {
+      "input": "Christian Medical College Ludhiana",
+      "output": "India"
+    },
+    {
+      "input": "AA Drink-leontien.nl",
+      "output": "Netherlands"
+    },
+    {
+      "input": "Halton County, Ontario",
+      "output": "Canada"
+    },
+    {
+      "input": "TROS",
+      "output": "Netherlands"
+    },
+    {
+      "input": "Kaunas Cathedral Basilica",
+      "output": "Lithuania"
+    },
+    {
+      "input": "Gmina Morawica",
+      "output": "Poland"
+    },
+    {
+      "input": "Sulaimaniyah International Airport",
+      "output": "Iraq"
+    },
+    {
+      "input": "Berhala Island, Sabah",
+      "output": "Malaysia"
+    },
+    {
+      "input": "Tsuno District, Yamaguchi",
+      "output": "Japan"
+    },
+    {
+      "input": "Ljig",
+      "output": "Serbia"
+    },
+    {
+      "input": "Bearpaw Shale",
+      "output": "Canada"
+    },
+    {
+      "input": "Foundation for a Free Information Infrastructure",
+      "output": "Germany"
+    },
+    {
+      "input": "Guillaumes",
+      "output": "France"
+    },
+    {
+      "input": "Sumulong Highway",
+      "output": "Philippines"
+    },
+    {
+      "input": "Frosinone",
+      "output": "Italy"
+    },
+    {
+      "input": "Kottarakkara",
+      "output": "India"
+    },
+    {
+      "input": "Ghora Gali",
+      "output": "Pakistan"
+    },
+    {
+      "input": "Scheibbs District",
+      "output": "Austria"
+    },
+    {
+      "input": "Gmina Leszno",
+      "output": "Poland"
+    },
+    {
+      "input": "Vardasht Rural District",
+      "output": "Iran"
+    },
+    {
+      "input": "Kuomintang",
+      "output": "Taiwan"
+    },
+    {
+      "input": "Nea Zichni Municipality",
+      "output": "Greece"
+    },
+    {
+      "input": "VR warehouses",
+      "output": "Finland"
+    },
+    {
+      "input": "Legnica County",
+      "output": "Poland"
+    },
+    {
+      "input": "Elgin West",
+      "output": "Canada"
+    },
+    {
+      "input": "Achelous River",
+      "output": "Greece"
+    },
+    {
+      "input": "Yamato Museum",
+      "output": "Japan"
+    },
+    {
+      "input": "Nagoya University",
+      "output": "Japan"
+    },
+    {
+      "input": "Lleida",
+      "output": "Spain"
+    },
+    {
+      "input": "Mewat",
+      "output": "India"
+    },
+    {
+      "input": "Gammalsvenskby",
+      "output": "Ukraine"
+    },
+    {
+      "input": "Bintulu Division",
+      "output": "Malaysia"
+    },
+    {
+      "input": "Hadzhidimovo",
+      "output": "Bulgaria"
+    },
+    {
+      "input": "Grianan of Aileach",
+      "output": "Ireland"
+    },
+    {
+      "input": "Leiria",
+      "output": "Portugal"
+    },
+    {
+      "input": "Eriksbergs Mekaniska Verkstad",
+      "output": "Sweden"
+    },
+    {
+      "input": "Schleitheim",
+      "output": "Switzerland"
+    },
+    {
+      "input": "Tinapa Resort",
+      "output": "Nigeria"
+    },
+    {
+      "input": "Saint-Louis-de-Kent, New Brunswick",
+      "output": "Canada"
+    },
+    {
+      "input": "Marstrand",
+      "output": "Sweden"
+    },
+    {
+      "input": "Tampere Cathedral",
+      "output": "Finland"
+    },
+    {
+      "input": "Langtang National Park",
+      "output": "Nepal"
+    },
+    {
+      "input": "Lismore GAA",
+      "output": "Ireland"
+    },
+    {
+      "input": "CD Eldense",
+      "output": "Spain"
+    },
+    {
+      "input": "Tell Rifaat",
+      "output": "Syria"
+    },
+    {
+      "input": "Ambatofinandrahana District",
+      "output": "Madagascar"
+    },
+    {
+      "input": "Montemitro",
+      "output": "Italy"
+    },
+    {
+      "input": "Jonava District Municipality",
+      "output": "Lithuania"
+    },
+    {
+      "input": "Sommariva del Bosco",
+      "output": "Italy"
+    },
+    {
+      "input": "Markham District High School",
+      "output": "Canada"
+    },
+    {
+      "input": "Beneden Merwede",
+      "output": "Netherlands"
+    },
+    {
+      "input": "Chartered Professional Accountant",
+      "output": "Canada"
+    },
+    {
+      "input": "Lake Timiskaming",
+      "output": "Canada"
+    },
+    {
+      "input": "Holmenkollen National Arena",
+      "output": "Norway"
+    },
+    {
+      "input": "Putyvl",
+      "output": "Ukraine"
+    },
+    {
+      "input": "Bobolice",
+      "output": "Poland"
+    },
+    {
+      "input": "Moissac Abbey",
+      "output": "France"
+    },
+    {
+      "input": "Mudgee",
+      "output": "Australia"
+    },
+    {
+      "input": "Wellington Island",
+      "output": "Chile"
+    },
+    {
+      "input": "Tiv people",
+      "output": "Nigeria"
+    },
+    {
+      "input": "Desolation Lava Field",
+      "output": "Canada"
+    },
+    {
+      "input": "Rottumerplaat",
+      "output": "Netherlands"
+    },
+    {
+      "input": "Nimmitabel",
+      "output": "Australia"
+    },
+    {
+      "input": "Zbuczyn",
+      "output": "Poland"
+    },
+    {
+      "input": "University of Bern",
+      "output": "Switzerland"
+    },
+    {
+      "input": "Eurostat",
+      "output": "Luxembourg"
+    },
+    {
+      "input": "FC Gorodeya",
+      "output": "Belarus"
+    },
+    {
+      "input": "Second Rutte cabinet",
+      "output": "Netherlands"
+    },
+    {
+      "input": "Langarud County",
+      "output": "Iran"
+    },
+    {
+      "input": "cadastral municipality",
+      "output": "Netherlands"
+    },
+    {
+      "input": "Vaujany",
+      "output": "France"
+    },
+    {
+      "input": "Bukit Panjang Single Member Constituency",
+      "output": "Singapore"
+    },
+    {
+      "input": "Soalala District",
+      "output": "Madagascar"
+    },
+    {
+      "input": "Ust-Katav",
+      "output": "Russia"
+    },
+    {
+      "input": "Wiener Singakademie",
+      "output": "Austria"
+    },
+    {
+      "input": "Palana",
+      "output": "Russia"
+    },
+    {
+      "input": "College of Engineering, Pune",
+      "output": "India"
+    },
+    {
+      "input": "Shire of Wambo",
+      "output": "Australia"
+    },
+    {
+      "input": "Bastia",
+      "output": "France"
+    },
+    {
+      "input": "Lindholm station",
+      "output": "Denmark"
+    },
+    {
+      "input": "Kungliga Svenska Segelsällskapet",
+      "output": "Sweden"
+    },
+    {
+      "input": "Ufa",
+      "output": "Russia"
+    },
+    {
+      "input": "Holycross-Ballycahill GAA",
+      "output": "Ireland"
+    },
+    {
+      "input": "Mittag-Leffler Institute",
+      "output": "Sweden"
+    },
+    {
+      "input": "Babcock & Brown",
+      "output": "Australia"
+    },
+    {
+      "input": "Capoeira",
+      "output": "Brazil"
+    },
+    {
+      "input": "Fryderyk Chopin University of Music",
+      "output": "Poland"
+    },
+    {
+      "input": "Augustinergasse",
+      "output": "Switzerland"
+    },
+    {
+      "input": "Khorramdarreh Rural District",
+      "output": "Iran"
+    },
+    {
+      "input": "Brandon University",
+      "output": "Canada"
+    },
+    {
+      "input": "Eibenstock",
+      "output": "Germany"
+    },
+    {
+      "input": "Isla Grande de Tierra del Fuego",
+      "output": "Argentina"
+    },
+    {
+      "input": "Pannonhalma Archabbey",
+      "output": "Hungary"
+    },
+    {
+      "input": "Karimnagar district",
+      "output": "India"
+    },
+    {
+      "input": "Pamukkale",
+      "output": "Turkey"
+    },
+    {
+      "input": "Bastille",
+      "output": "France"
+    },
+    {
+      "input": "Santa Maria da Feira Municipality",
+      "output": "Portugal"
+    },
+    {
+      "input": "Komarichsky District",
+      "output": "Russia"
+    },
+    {
+      "input": "Uda District",
+      "output": "Japan"
+    },
+    {
+      "input": "Dospat Municipality",
+      "output": "Bulgaria"
+    },
+    {
+      "input": "Medaram",
+      "output": "India"
+    },
+    {
+      "input": "Kaniv Reservoir",
+      "output": "Ukraine"
+    },
+    {
+      "input": "Tatsuno",
+      "output": "Japan"
+    },
+    {
+      "input": "1C Company",
+      "output": "Russia"
+    },
+    {
+      "input": "Opel",
+      "output": "Germany"
+    },
+    {
+      "input": "Welschnofen",
+      "output": "Italy"
+    },
+    {
+      "input": "Tempi Municipality",
+      "output": "Greece"
+    },
+    {
+      "input": "Shakhenat Rural District",
+      "output": "Iran"
+    },
+    {
+      "input": "Fischenthal",
+      "output": "Switzerland"
+    },
+    {
+      "input": "Baturyn",
+      "output": "Ukraine"
+    },
+    {
+      "input": "San Canzian d'Isonzo",
+      "output": "Italy"
+    },
+    {
+      "input": "New England",
+      "output": "Australia"
+    },
+    {
+      "input": "Canton of Schaffhausen",
+      "output": "Switzerland"
+    },
+    {
+      "input": "agglomeration community",
+      "output": "France"
+    },
+    {
+      "input": "Gmina Konarzyny",
+      "output": "Poland"
+    },
+    {
+      "input": "Kandiaro Taluka",
+      "output": "Pakistan"
+    },
+    {
+      "input": "regiopolis",
+      "output": "Germany"
+    },
+    {
+      "input": "Registro",
+      "output": "Brazil"
+    },
+    {
+      "input": "Tovuz District",
+      "output": "Azerbaijan"
+    },
+    {
+      "input": "Ferrobaires",
+      "output": "Argentina"
+    },
+    {
+      "input": "Hitachinaka",
+      "output": "Japan"
+    },
+    {
+      "input": "Zelenchukskaya",
+      "output": "Russia"
+    },
+    {
+      "input": "Geffen Award",
+      "output": "Israel"
+    },
+    {
+      "input": "Hotel Oloffson",
+      "output": "Haiti"
+    },
+    {
+      "input": "Hardoi district",
+      "output": "India"
+    },
+    {
+      "input": "Goseck circle",
+      "output": "Germany"
+    },
+    {
+      "input": "Da Nang Air Base",
+      "output": "Vietnam"
+    },
+    {
+      "input": "Tukvar Tea Estate",
+      "output": "India"
+    },
+    {
+      "input": "Bilohirsk Raion",
+      "output": "Russia"
+    },
+    {
+      "input": "Banesh Rural District",
+      "output": "Iran"
+    },
+    {
+      "input": "Les Bons Villers",
+      "output": "Belgium"
+    },
+    {
+      "input": "Borgo San Martino",
+      "output": "Italy"
+    },
+    {
+      "input": "Augusta Raurica",
+      "output": "Switzerland"
+    },
+    {
+      "input": "Siemiatycze",
+      "output": "Poland"
+    },
+    {
+      "input": "Medical College and Hospital, Kolkata",
+      "output": "India"
+    },
+    {
+      "input": "Kamikita District",
+      "output": "Japan"
+    },
+    {
+      "input": "European route E25",
+      "output": "Luxembourg"
+    },
+    {
+      "input": "Capdenac",
+      "output": "France"
+    },
+    {
+      "input": "2010 Belgian federal election",
+      "output": "Belgium"
+    },
+    {
+      "input": "Transylvanian Plateau",
+      "output": "Romania"
+    },
+    {
+      "input": "Maya River",
+      "output": "Russia"
+    },
+    {
+      "input": "Emscher",
+      "output": "Germany"
+    },
+    {
+      "input": "Global Television Network",
+      "output": "Canada"
+    },
+    {
+      "input": "Llanquihue Province",
+      "output": "Chile"
+    },
+    {
+      "input": "Federally Administered Tribal Areas",
+      "output": "Pakistan"
+    },
+    {
+      "input": "Cunter",
+      "output": "Switzerland"
+    },
+    {
+      "input": "Colleville-Montgomery",
+      "output": "France"
+    },
+    {
+      "input": "University of Zaragoza",
+      "output": "Spain"
+    },
+    {
+      "input": "Democrats 66",
+      "output": "Netherlands"
+    },
+    {
+      "input": "Westerburg",
+      "output": "Germany"
+    },
+    {
+      "input": "Knockmealdown Mountains",
+      "output": "Ireland"
+    },
+    {
+      "input": "Istanbul Airport",
+      "output": "Turkey"
+    },
+    {
+      "input": "Cappoquin",
+      "output": "Ireland"
+    },
+    {
+      "input": "Bad Vilbel",
+      "output": "Germany"
+    },
+    {
+      "input": "Pacentro",
+      "output": "Italy"
+    },
+    {
+      "input": "1960 Summer Olympics",
+      "output": "Italy"
+    },
+    {
+      "input": "Lutvann",
+      "output": "Norway"
+    },
+    {
+      "input": "Attingal",
+      "output": "India"
+    },
+    {
+      "input": "2009 Speedway Ekstraliga",
+      "output": "Poland"
+    },
+    {
+      "input": "Gobardanga",
+      "output": "India"
+    },
+    {
+      "input": "Staatliche Antikensammlungen",
+      "output": "Germany"
+    },
+    {
+      "input": "Inami, Toyama",
+      "output": "Japan"
+    },
+    {
+      "input": "Union des forces progressistes",
+      "output": "Canada"
+    },
+    {
+      "input": "Piazza al Serchio",
+      "output": "Italy"
+    },
+    {
+      "input": "Velbert",
+      "output": "Germany"
+    },
+    {
+      "input": "Gasunie",
+      "output": "Netherlands"
+    },
+    {
+      "input": "United Mine Workers",
+      "output": "Canada"
+    },
+    {
+      "input": "Atromitos Piraeus F.C.",
+      "output": "Greece"
+    },
+    {
+      "input": "Oshawa",
+      "output": "Canada"
+    },
+    {
+      "input": "Eredivisie",
+      "output": "Netherlands"
+    },
+    {
+      "input": "Addanki mandal",
+      "output": "India"
+    },
+    {
+      "input": "Hohenwestedt",
+      "output": "Germany"
+    },
+    {
+      "input": "Gmina Olsztyn",
+      "output": "Poland"
+    },
+    {
+      "input": "Lambunao",
+      "output": "Philippines"
+    },
+    {
+      "input": "Alpokalja",
+      "output": "Hungary"
+    },
+    {
+      "input": "Kanchanaburi",
+      "output": "Thailand"
+    },
+    {
+      "input": "Erbil SC",
+      "output": "Iraq"
+    },
+    {
+      "input": "Campeche Bank",
+      "output": "Mexico"
+    },
+    {
+      "input": "European Physical Society",
+      "output": "France"
+    },
+    {
+      "input": "Nuri",
+      "output": "Sudan"
+    },
+    {
+      "input": "Perpignan",
+      "output": "France"
+    },
+    {
+      "input": "Kibungo Province",
+      "output": "Rwanda"
+    },
+    {
+      "input": "Teatro Comunale Florence",
+      "output": "Italy"
+    },
+    {
+      "input": "Kapar",
+      "output": "Malaysia"
+    },
+    {
+      "input": "Astrid Lindgren Memorial Award",
+      "output": "Sweden"
+    },
+    {
+      "input": "Dewa Province",
+      "output": "Japan"
+    },
+    {
+      "input": "Bahujan Vikas Aaghadi",
+      "output": "India"
+    },
+    {
+      "input": "Beles River",
+      "output": "Ethiopia"
+    },
+    {
+      "input": "Jervis Inlet",
+      "output": "Canada"
+    },
+    {
+      "input": "Balige",
+      "output": "Indonesia"
+    },
+    {
+      "input": "Wallmerod",
+      "output": "Germany"
+    },
+    {
+      "input": "Neighbourhoods in Kolkata",
+      "output": "India"
+    },
+    {
+      "input": "Al-Suqaylabiyah Subdistrict",
+      "output": "Syria"
+    },
+    {
+      "input": "Kretinga",
+      "output": "Lithuania"
+    },
+    {
+      "input": "Galiano Island",
+      "output": "Canada"
+    },
+    {
+      "input": "Sanlih E-Television",
+      "output": "Taiwan"
+    },
+    {
+      "input": "AH3",
+      "output": "Russia"
+    },
+    {
+      "input": "Isola Dovarese",
+      "output": "Italy"
+    },
+    {
+      "input": "Pesisir Selatan",
+      "output": "Indonesia"
+    },
+    {
+      "input": "Calw",
+      "output": "Germany"
+    },
+    {
+      "input": "Eirodziesma",
+      "output": "Latvia"
+    },
+    {
+      "input": "Siquijor",
+      "output": "Philippines"
+    },
+    {
+      "input": "Panna National Park",
+      "output": "India"
+    },
+    {
+      "input": "Hohenlohe-Langenburg",
+      "output": "Germany"
+    },
+    {
+      "input": "Gavrilovo-Posadsky District",
+      "output": "Russia"
+    },
+    {
+      "input": "Puerto Maldonado",
+      "output": "Peru"
+    },
+    {
+      "input": "Dornbirn",
+      "output": "Austria"
+    },
+    {
+      "input": "South East Forests National Park",
+      "output": "Australia"
+    },
+    {
+      "input": "Al-Hasakah Governorate",
+      "output": "Syria"
+    },
+    {
+      "input": "Taranto Sport",
+      "output": "Italy"
+    },
+    {
+      "input": "Simcoe Composite School",
+      "output": "Canada"
+    },
+    {
+      "input": "Papantla",
+      "output": "Mexico"
+    },
+    {
+      "input": "Gmina Pokrzywnica",
+      "output": "Poland"
+    },
+    {
+      "input": "Manila Light Rail Transit System",
+      "output": "Philippines"
+    },
+    {
+      "input": "Grimaldi Industri",
+      "output": "Sweden"
+    },
+    {
+      "input": "Logatec",
+      "output": "Slovenia"
+    },
+    {
+      "input": "Simdega",
+      "output": "India"
+    },
+    {
+      "input": "Fairfield West",
+      "output": "Australia"
+    },
+    {
+      "input": "Fluminense F.C.",
+      "output": "Brazil"
+    },
+    {
+      "input": "Buchan",
+      "output": "Australia"
+    },
+    {
+      "input": "Ticho House",
+      "output": "Israel"
+    },
+    {
+      "input": "Lucentum",
+      "output": "Spain"
+    },
+    {
+      "input": "Castlehaven",
+      "output": "Ireland"
+    },
+    {
+      "input": "Montiel",
+      "output": "Spain"
+    },
+    {
+      "input": "Rathen",
+      "output": "Germany"
+    },
+    {
+      "input": "Guldborg",
+      "output": "Denmark"
+    },
+    {
+      "input": "Pampilhosa da Serra",
+      "output": "Portugal"
+    },
+    {
+      "input": "Ulundurpet",
+      "output": "India"
+    },
+    {
+      "input": "Bad Camberg",
+      "output": "Germany"
+    },
+    {
+      "input": "Chu Lai Base Area",
+      "output": "Vietnam"
+    },
+    {
+      "input": "Now Kandeh District",
+      "output": "Iran"
+    },
+    {
+      "input": "Nobel Peace Center",
+      "output": "Norway"
+    },
+    {
+      "input": "Chaville",
+      "output": "France"
+    },
+    {
+      "input": "Gurudwara Bangla Sahib",
+      "output": "India"
+    },
+    {
+      "input": "Kalvola",
+      "output": "Finland"
+    },
+    {
+      "input": "Entracque",
+      "output": "Italy"
+    },
+    {
+      "input": "Gobind Sagar",
+      "output": "India"
+    },
+    {
+      "input": "Valdichiana",
+      "output": "Italy"
+    },
+    {
+      "input": "Pully",
+      "output": "Switzerland"
+    },
+    {
+      "input": "Kondotty",
+      "output": "India"
+    },
+    {
+      "input": "bpost",
+      "output": "Belgium"
+    },
+    {
+      "input": "St Lucia",
+      "output": "Australia"
+    },
+    {
+      "input": "Kamchatka Krai",
+      "output": "Russia"
+    },
+    {
+      "input": "Sakarya Province",
+      "output": "Turkey"
+    },
+    {
+      "input": "Bilbao",
+      "output": "Spain"
+    },
+    {
+      "input": "Barnhartvale, Kamloops",
+      "output": "Canada"
+    },
+    {
+      "input": "Reiherstieg Schiffswerfte & Maschinenfabrik",
+      "output": "Germany"
+    },
+    {
+      "input": "Lauterecken-Wolfstein",
+      "output": "Germany"
+    },
+    {
+      "input": "Arsk",
+      "output": "Russia"
+    },
+    {
+      "input": "Haut Atlas",
+      "output": "Morocco"
+    },
+    {
+      "input": "Catholic Syrian Bank",
+      "output": "India"
+    },
+    {
+      "input": "Tartu Town Hall",
+      "output": "Estonia"
+    },
+    {
+      "input": "Arjoun",
+      "output": "Syria"
+    },
+    {
+      "input": "Kojur District",
+      "output": "Iran"
+    },
+    {
+      "input": "Presbyterian High School",
+      "output": "Singapore"
+    },
+    {
+      "input": "Rottendorf",
+      "output": "Germany"
+    },
+    {
+      "input": "Saint-Jacques-de-la-Lande",
+      "output": "France"
+    },
+    {
+      "input": "Temples of Abu Simbel",
+      "output": "Egypt"
+    },
+    {
+      "input": "Ponoy River",
+      "output": "Russia"
+    },
+    {
+      "input": "Augustdorf",
+      "output": "Germany"
+    },
+    {
+      "input": "Kharga Oasis",
+      "output": "Egypt"
+    },
+    {
+      "input": "KBC Bank",
+      "output": "Belgium"
+    },
+    {
+      "input": "Larsmo",
+      "output": "Finland"
+    },
+    {
+      "input": "Nauders",
+      "output": "Austria"
+    },
+    {
+      "input": "New Democratic Party Socialist Caucus",
+      "output": "Canada"
+    },
+    {
+      "input": "Eupen-Malmedy",
+      "output": "Belgium"
+    },
+    {
+      "input": "Christian Democrats",
+      "output": "Finland"
+    },
+    {
+      "input": "Penna Ahobilam",
+      "output": "India"
+    },
+    {
+      "input": "Shibganj Upazila, Bogra District",
+      "output": "Bangladesh"
+    },
+    {
+      "input": "Mahur Berenji Rural District",
+      "output": "Iran"
+    },
+    {
+      "input": "Lahti",
+      "output": "Finland"
+    },
+    {
+      "input": "Birendranagar",
+      "output": "Nepal"
+    },
+    {
+      "input": "Toulouges",
+      "output": "France"
+    },
+    {
+      "input": "Hornnes",
+      "output": "Norway"
+    },
+    {
+      "input": "Orikhiv",
+      "output": "Ukraine"
+    },
+    {
+      "input": "Preet Vihar",
+      "output": "India"
+    },
+    {
+      "input": "plaza de Cibeles",
+      "output": "Spain"
+    },
+    {
+      "input": "Sydney Hospital",
+      "output": "Australia"
+    },
+    {
+      "input": "Cubagua",
+      "output": "Venezuela"
+    },
+    {
+      "input": "Eagle Boys",
+      "output": "Australia"
+    },
+    {
+      "input": "Orpheus Island National Park",
+      "output": "Australia"
+    },
+    {
+      "input": "Olot",
+      "output": "Spain"
+    },
+    {
+      "input": "Papanasam",
+      "output": "India"
+    },
+    {
+      "input": "Pinosava",
+      "output": "Serbia"
+    },
+    {
+      "input": "archdiocese of Gatineau",
+      "output": "Canada"
+    },
+    {
+      "input": "Prince Edward Viaduct",
+      "output": "Canada"
+    },
+    {
+      "input": "Dunnamaggin GAA",
+      "output": "Ireland"
+    },
+    {
+      "input": "Bird's Head Peninsula",
+      "output": "Indonesia"
+    },
+    {
+      "input": "Were Ilu",
+      "output": "Ethiopia"
+    },
+    {
+      "input": "Niederweningen",
+      "output": "Switzerland"
+    },
+    {
+      "input": "Cayeux-sur-Mer",
+      "output": "France"
+    },
+    {
+      "input": "Didymoteicho",
+      "output": "Greece"
+    },
+    {
+      "input": "Beckingen",
+      "output": "Germany"
+    },
+    {
+      "input": "Sun News Network",
+      "output": "Canada"
+    },
+    {
+      "input": "Borghetto di Vara",
+      "output": "Italy"
+    },
+    {
+      "input": "Anak Bukit",
+      "output": "Malaysia"
+    },
+    {
+      "input": "Cmolas",
+      "output": "Poland"
+    },
+    {
+      "input": "Heptapyrgion",
+      "output": "Greece"
+    },
+    {
+      "input": "National Republican Greek League",
+      "output": "Greece"
+    },
+    {
+      "input": "Mandara Mountains",
+      "output": "Nigeria"
+    },
+    {
+      "input": "Bernheze",
+      "output": "Netherlands"
+    },
+    {
+      "input": "Sana'a International Airport",
+      "output": "Yemen"
+    },
+    {
+      "input": "Colombes",
+      "output": "France"
+    },
+    {
+      "input": "Tsubaki Grand Shrine",
+      "output": "Japan"
+    },
+    {
+      "input": "Hispaniola",
+      "output": "Haiti"
+    },
+    {
+      "input": "Cork GAA",
+      "output": "Ireland"
+    },
+    {
+      "input": "Madala",
+      "output": "India"
+    },
+    {
+      "input": "Wanne-Eickel Central Station",
+      "output": "Germany"
+    },
+    {
+      "input": "Cenepa River",
+      "output": "Peru"
+    },
+    {
+      "input": "Laslea",
+      "output": "Romania"
+    },
+    {
+      "input": "Aden",
+      "output": "Yemen"
+    },
+    {
+      "input": "Valvasone",
+      "output": "Italy"
+    },
+    {
+      "input": "Louth County Council",
+      "output": "Ireland"
+    },
+    {
+      "input": "Hong San See",
+      "output": "Singapore"
+    },
+    {
+      "input": "IJmuiden",
+      "output": "Netherlands"
+    },
+    {
+      "input": "Iraklis F.C.",
+      "output": "Greece"
+    },
+    {
+      "input": "Mahalangur Himal",
+      "output": "Nepal"
+    },
+    {
+      "input": "Waldshut-Tiengen",
+      "output": "Germany"
+    },
+    {
+      "input": "Munich Residence",
+      "output": "Germany"
+    },
+    {
+      "input": "Tehri Garhwal district",
+      "output": "India"
+    },
+    {
+      "input": "Battle of Montereau",
+      "output": "France"
+    },
+    {
+      "input": "Instituto Pedro Nunes",
+      "output": "Portugal"
+    },
+    {
+      "input": "Pragersko",
+      "output": "Slovenia"
+    },
+    {
+      "input": "Indira Gandhi International Airport",
+      "output": "India"
+    },
+    {
+      "input": "Grolsch Brewery",
+      "output": "Netherlands"
+    },
+    {
+      "input": "Northern Territory",
+      "output": "Australia"
+    },
+    {
+      "input": "Bogra Zilla School",
+      "output": "Bangladesh"
+    },
+    {
+      "input": "Kahrizak",
+      "output": "Iran"
+    },
+    {
+      "input": "Blennerville",
+      "output": "Ireland"
+    },
+    {
+      "input": "Autonomous District Lok Sabha constituency",
+      "output": "India"
+    },
+    {
+      "input": "Taunsa Barrage",
+      "output": "Pakistan"
+    },
+    {
+      "input": "Biberach district",
+      "output": "Germany"
+    },
+    {
+      "input": "Lower Assam",
+      "output": "India"
+    },
+    {
+      "input": "Shastri Park",
+      "output": "India"
+    },
+    {
+      "input": "Hammarby IF DFF",
+      "output": "Sweden"
+    },
+    {
+      "input": "Windischeschenbach",
+      "output": "Germany"
+    },
+    {
+      "input": "Piper Verlag",
+      "output": "Germany"
+    },
+    {
+      "input": "Facit",
+      "output": "Sweden"
+    },
+    {
+      "input": "Ruthweiler",
+      "output": "Germany"
+    },
+    {
+      "input": "CFMJ",
+      "output": "Canada"
+    },
+    {
+      "input": "Tartessos",
+      "output": "Spain"
+    },
+    {
+      "input": "Danish Sign Language",
+      "output": "Denmark"
+    },
+    {
+      "input": "Ichchapuram",
+      "output": "India"
+    },
+    {
+      "input": "Leap Castle",
+      "output": "Ireland"
+    },
+    {
+      "input": "Electoral district of Wantirna",
+      "output": "Australia"
+    },
+    {
+      "input": "Singarapettai",
+      "output": "India"
+    },
+    {
+      "input": "Tudeshk Rural District",
+      "output": "Iran"
+    },
+    {
+      "input": "Hagenow",
+      "output": "Germany"
+    },
+    {
+      "input": "Gmina Kleczew",
+      "output": "Poland"
+    },
+    {
+      "input": "Tarnobrzeg Voivodeship",
+      "output": "Poland"
+    },
+    {
+      "input": "House of Representatives",
+      "output": "Libya"
+    },
+    {
+      "input": "Hyderabad Deccan railway station",
+      "output": "India"
+    },
+    {
+      "input": "ABC Futebol Clube",
+      "output": "Brazil"
+    },
+    {
+      "input": "Lajran Rural District",
+      "output": "Iran"
+    },
+    {
+      "input": "Sands of Beirut",
+      "output": "Lebanon"
+    },
+    {
+      "input": "Santa Cruz de Mompox",
+      "output": "Colombia"
+    },
+    {
+      "input": "Bliesgau",
+      "output": "Germany"
+    },
+    {
+      "input": "Ostermundigen",
+      "output": "Switzerland"
+    },
+    {
+      "input": "Valhalla Swimming Hall",
+      "output": "Sweden"
+    },
+    {
+      "input": "Taksim Military Barracks",
+      "output": "Turkey"
+    },
+    {
+      "input": "Jemappes",
+      "output": "Belgium"
+    },
+    {
+      "input": "Tinguiririca River",
+      "output": "Chile"
+    },
+    {
+      "input": "Southern Savonia",
+      "output": "Finland"
+    },
+    {
+      "input": "Adare Manor",
+      "output": "Ireland"
+    },
+    {
+      "input": "Garabit viaduct",
+      "output": "France"
+    },
+    {
+      "input": "Menen",
+      "output": "Belgium"
+    },
+    {
+      "input": "Waalhaven",
+      "output": "Netherlands"
+    },
+    {
+      "input": "Hellenic Police",
+      "output": "Greece"
+    },
+    {
+      "input": "Jiul de Vest River",
+      "output": "Romania"
+    },
+    {
+      "input": "Gavork-e Nalin Rural District",
+      "output": "Iran"
+    },
+    {
+      "input": "Pilis Mountains",
+      "output": "Hungary"
+    },
+    {
+      "input": "Palais de l'Industrie",
+      "output": "France"
+    },
+    {
+      "input": "Ayn Halaqim Subdistrict",
+      "output": "Syria"
+    },
+    {
+      "input": "JVC Kenwood Victor Entertainment",
+      "output": "Japan"
+    },
+    {
+      "input": "Rock al Parque",
+      "output": "Colombia"
+    },
+    {
+      "input": "Tienen",
+      "output": "Belgium"
+    },
+    {
+      "input": "Manila Bay",
+      "output": "Philippines"
+    },
+    {
+      "input": "Frasnes-lez-Anvaing",
+      "output": "Belgium"
+    },
+    {
+      "input": "Treuchtlingen",
+      "output": "Germany"
+    },
+    {
+      "input": "Hamilton Mountain",
+      "output": "Canada"
+    },
+    {
+      "input": "Yoro",
+      "output": "Honduras"
+    },
+    {
+      "input": "Stara Zagora",
+      "output": "Bulgaria"
+    },
+    {
+      "input": "Sydney Peace Prize",
+      "output": "Australia"
+    },
+    {
+      "input": "Simeulue",
+      "output": "Indonesia"
+    },
+    {
+      "input": "Little Stirrup Cay",
+      "output": "Bahamas"
+    },
+    {
+      "input": "Skole Raion",
+      "output": "Ukraine"
+    }
+  ],
+  "dummy_test": {
+    "input": "Prachin Buri River",
+    "output": "Thailand"
+  },
+  "valid": [
+    {
+      "input": "Prachin Buri River",
+      "output": "Thailand"
+    },
+    {
+      "input": "Bouygues Telecom",
+      "output": "France"
+    },
+    {
+      "input": "Neryungri",
+      "output": "Russia"
+    },
+    {
+      "input": "Mont Saint-Bruno",
+      "output": "Canada"
+    },
+    {
+      "input": "Free National Movement",
+      "output": "Bahamas"
+    },
+    {
+      "input": "Landskrona BoIS",
+      "output": "Sweden"
+    },
+    {
+      "input": "Nkawkaw",
+      "output": "Ghana"
+    },
+    {
+      "input": "Hrtkovci",
+      "output": "Croatia"
+    },
+    {
+      "input": "Romano d'Ezzelino",
+      "output": "Italy"
+    },
+    {
+      "input": "Tarn-et-Garonne",
+      "output": "France"
+    },
+    {
+      "input": "Ustevatn",
+      "output": "Norway"
+    },
+    {
+      "input": "Nyeri County",
+      "output": "Kenya"
+    },
+    {
+      "input": "Bugis Junction",
+      "output": "Singapore"
+    },
+    {
+      "input": "Kayunga District",
+      "output": "Uganda"
+    },
+    {
+      "input": "Jafara",
+      "output": "Libya"
+    },
+    {
+      "input": "Zulia",
+      "output": "Venezuela"
+    },
+    {
+      "input": "Aventine Hill",
+      "output": "Italy"
+    },
+    {
+      "input": "Yokohama International School",
+      "output": "Japan"
+    },
+    {
+      "input": "Hooge Crater Commonwealth War Graves Commission Cemetery",
+      "output": "Belgium"
+    },
+    {
+      "input": "Shichikashuku",
+      "output": "Japan"
+    },
+    {
+      "input": "Tampines Expressway",
+      "output": "Singapore"
+    },
+    {
+      "input": "Turaida",
+      "output": "Latvia"
+    },
+    {
+      "input": "Bzura",
+      "output": "Poland"
+    },
+    {
+      "input": "Noliko Maaseik",
+      "output": "Belgium"
+    },
+    {
+      "input": "Mukkam",
+      "output": "India"
+    },
+    {
+      "input": "Winlaton Youth Training Centre",
+      "output": "Australia"
+    },
+    {
+      "input": "Sydney Sports Ground",
+      "output": "Australia"
+    },
+    {
+      "input": "County Carlow",
+      "output": "Ireland"
+    },
+    {
+      "input": "Polish Football Association",
+      "output": "Poland"
+    },
+    {
+      "input": "Rankuh District",
+      "output": "Iran"
+    },
+    {
+      "input": "North Middlesex, Ontario",
+      "output": "Canada"
+    },
+    {
+      "input": "Gmina Kalinowo",
+      "output": "Poland"
+    },
+    {
+      "input": "Pakpattan",
+      "output": "Pakistan"
+    },
+    {
+      "input": "Beauvais",
+      "output": "France"
+    },
+    {
+      "input": "Yadagirigutta Temple",
+      "output": "India"
+    },
+    {
+      "input": "Asian Highway Network",
+      "output": "India"
+    },
+    {
+      "input": "Eerbeek",
+      "output": "Netherlands"
+    },
+    {
+      "input": "Melaka TMFC",
+      "output": "Malaysia"
+    },
+    {
+      "input": "Kingston Whig-Standard",
+      "output": "Canada"
+    },
+    {
+      "input": "Adliswil",
+      "output": "Switzerland"
+    },
+    {
+      "input": "Linimo",
+      "output": "Japan"
+    },
+    {
+      "input": "Helsinki City Hall",
+      "output": "Finland"
+    },
+    {
+      "input": "Sena Medal",
+      "output": "India"
+    },
+    {
+      "input": "CNH Industrial",
+      "output": "Netherlands"
+    },
+    {
+      "input": "Lascaris Battery",
+      "output": "Malta"
+    },
+    {
+      "input": "Badoc",
+      "output": "Philippines"
+    },
+    {
+      "input": "Circuit des Ardennes",
+      "output": "Belgium"
+    },
+    {
+      "input": "Strait of Kerch",
+      "output": "Russia"
+    },
+    {
+      "input": "Vrienden van het Platteland",
+      "output": "Netherlands"
+    },
+    {
+      "input": "South East Cape",
+      "output": "Australia"
+    },
+    {
+      "input": "Sahneh County",
+      "output": "Iran"
+    },
+    {
+      "input": "Trento",
+      "output": "Italy"
+    },
+    {
+      "input": "Chol Kiri District",
+      "output": "Cambodia"
+    },
+    {
+      "input": "Palupera Rural Municipality",
+      "output": "Estonia"
+    },
+    {
+      "input": "Hersbruck",
+      "output": "Germany"
+    },
+    {
+      "input": "Minu District",
+      "output": "Iran"
+    },
+    {
+      "input": "Noyon",
+      "output": "France"
+    },
+    {
+      "input": "Olten railway station",
+      "output": "Switzerland"
+    },
+    {
+      "input": "Zuiderzee",
+      "output": "Netherlands"
+    },
+    {
+      "input": "Bedourie",
+      "output": "Australia"
+    },
+    {
+      "input": "DESTATIS",
+      "output": "Germany"
+    },
+    {
+      "input": "Al Ahmadi Governorate",
+      "output": "Kuwait"
+    },
+    {
+      "input": "Askola",
+      "output": "Finland"
+    },
+    {
+      "input": "Greater Rio de Janeiro",
+      "output": "Brazil"
+    },
+    {
+      "input": "Villars-Burquin",
+      "output": "Switzerland"
+    },
+    {
+      "input": "Wentworth Valley",
+      "output": "Canada"
+    },
+    {
+      "input": "Idalium",
+      "output": "Cyprus"
+    },
+    {
+      "input": "Dawa River",
+      "output": "Somalia"
+    },
+    {
+      "input": "Trigono",
+      "output": "Greece"
+    },
+    {
+      "input": "Dziemiany",
+      "output": "Poland"
+    },
+    {
+      "input": "Kolad",
+      "output": "India"
+    },
+    {
+      "input": "Bolvadin",
+      "output": "Turkey"
+    },
+    {
+      "input": "Sarnaki",
+      "output": "Poland"
+    },
+    {
+      "input": "Konark Sun temple",
+      "output": "India"
+    },
+    {
+      "input": "Kosi Zone",
+      "output": "Nepal"
+    },
+    {
+      "input": "Garkan Rural District",
+      "output": "Iran"
+    },
+    {
+      "input": "Castellamonte",
+      "output": "Italy"
+    },
+    {
+      "input": "N-340 road",
+      "output": "Spain"
+    },
+    {
+      "input": "Bannu",
+      "output": "Pakistan"
+    },
+    {
+      "input": "Wabush Airport",
+      "output": "Canada"
+    },
+    {
+      "input": "Lamongan",
+      "output": "Indonesia"
+    },
+    {
+      "input": "Geelong Ring Road",
+      "output": "Australia"
+    },
+    {
+      "input": "Tirebolu",
+      "output": "Turkey"
+    },
+    {
+      "input": "Nintendo",
+      "output": "Japan"
+    },
+    {
+      "input": "Dent Island Light",
+      "output": "Australia"
+    },
+    {
+      "input": "Katwijk aan den Rijn",
+      "output": "Netherlands"
+    },
+    {
+      "input": "Enghien-les-Bains",
+      "output": "France"
+    },
+    {
+      "input": "ITE College East",
+      "output": "Singapore"
+    },
+    {
+      "input": "Asian Highway Network",
+      "output": "Turkey"
+    },
+    {
+      "input": "Alcanena Municipality",
+      "output": "Portugal"
+    },
+    {
+      "input": "Hultsfred Municipality",
+      "output": "Sweden"
+    },
+    {
+      "input": "Castleisland Desmonds GAA",
+      "output": "Ireland"
+    },
+    {
+      "input": "East Karelia",
+      "output": "Russia"
+    },
+    {
+      "input": "Naruto Strait",
+      "output": "Japan"
+    },
+    {
+      "input": "Bad Wildungen",
+      "output": "Germany"
+    },
+    {
+      "input": "Madona District",
+      "output": "Latvia"
+    },
+    {
+      "input": "Isa Air Base",
+      "output": "Bahrain"
+    },
+    {
+      "input": "Pontigny Abbey",
+      "output": "France"
+    },
+    {
+      "input": "Tovarnik",
+      "output": "Croatia"
+    },
+    {
+      "input": "Albertis Castle",
+      "output": "Italy"
+    },
+    {
+      "input": "Blackrock Castle",
+      "output": "Ireland"
+    },
+    {
+      "input": "Colegio Nacional de Buenos Aires",
+      "output": "Argentina"
+    },
+    {
+      "input": "Wakefield Park",
+      "output": "Australia"
+    },
+    {
+      "input": "Cocconato",
+      "output": "Italy"
+    },
+    {
+      "input": "Camarate",
+      "output": "Portugal"
+    },
+    {
+      "input": "Gjerpen",
+      "output": "Norway"
+    },
+    {
+      "input": "Lake Caliraya",
+      "output": "Philippines"
+    },
+    {
+      "input": "Garbeta",
+      "output": "India"
+    },
+    {
+      "input": "East Wall",
+      "output": "Ireland"
+    },
+    {
+      "input": "Expo 86",
+      "output": "Canada"
+    },
+    {
+      "input": "Bamyan",
+      "output": "Afghanistan"
+    },
+    {
+      "input": "Lannemezan",
+      "output": "France"
+    },
+    {
+      "input": "Kyoto University",
+      "output": "Japan"
+    },
+    {
+      "input": "Bilecik Province",
+      "output": "Turkey"
+    },
+    {
+      "input": "Bjurholm",
+      "output": "Sweden"
+    },
+    {
+      "input": "Mugello Circuit",
+      "output": "Italy"
+    },
+    {
+      "input": "Everberg",
+      "output": "Belgium"
+    },
+    {
+      "input": "KiKa",
+      "output": "Germany"
+    },
+    {
+      "input": "Columbia Valley",
+      "output": "Canada"
+    },
+    {
+      "input": "Carpentras",
+      "output": "France"
+    },
+    {
+      "input": "Pochepsky District",
+      "output": "Russia"
+    },
+    {
+      "input": "Habitat 67",
+      "output": "Canada"
+    },
+    {
+      "input": "Lewin Brzeski",
+      "output": "Poland"
+    },
+    {
+      "input": "Club Aurora",
+      "output": "Bolivia"
+    },
+    {
+      "input": "Taronga Western Plains Zoo",
+      "output": "Australia"
+    },
+    {
+      "input": "Mirbag-e Shomali Rural District",
+      "output": "Iran"
+    },
+    {
+      "input": "Ulpiana",
+      "output": "Kosovo"
+    },
+    {
+      "input": "Mezhdurechensky District",
+      "output": "Russia"
+    },
+    {
+      "input": "Shoranur",
+      "output": "India"
+    },
+    {
+      "input": "Issenheim",
+      "output": "France"
+    },
+    {
+      "input": "Ghatanji",
+      "output": "India"
+    },
+    {
+      "input": "Milltown Institute of Theology and Philosophy",
+      "output": "Ireland"
+    },
+    {
+      "input": "Aucanquilcha",
+      "output": "Chile"
+    },
+    {
+      "input": "Steenwijk",
+      "output": "Netherlands"
+    },
+    {
+      "input": "Kfar Giladi",
+      "output": "Israel"
+    },
+    {
+      "input": "Casiquiare canal",
+      "output": "Venezuela"
+    },
+    {
+      "input": "Universidad Nacional Federico Villarreal",
+      "output": "Peru"
+    },
+    {
+      "input": "Le Puy Foot 43 Auvergne",
+      "output": "France"
+    },
+    {
+      "input": "Public Broadcasting Services",
+      "output": "Malta"
+    },
+    {
+      "input": "Entzheim",
+      "output": "France"
+    },
+    {
+      "input": "Pandoh Dam",
+      "output": "India"
+    },
+    {
+      "input": "Davan",
+      "output": "Iran"
+    },
+    {
+      "input": "Vernayaz",
+      "output": "Switzerland"
+    },
+    {
+      "input": "Circuito da Boavista",
+      "output": "Portugal"
+    },
+    {
+      "input": "Subarnapur district",
+      "output": "India"
+    },
+    {
+      "input": "Vesuvius Observatory",
+      "output": "Italy"
+    },
+    {
+      "input": "Montreal Centre",
+      "output": "Canada"
+    },
+    {
+      "input": "Kresttsy",
+      "output": "Russia"
+    },
+    {
+      "input": "Autonomous University of Madrid",
+      "output": "Spain"
+    },
+    {
+      "input": "Lodhran Tehsil",
+      "output": "Pakistan"
+    },
+    {
+      "input": "Skinnamarink TV",
+      "output": "Canada"
+    },
+    {
+      "input": "Teshie",
+      "output": "Ghana"
+    },
+    {
+      "input": "Moscato d'Asti",
+      "output": "Italy"
+    },
+    {
+      "input": "Dwarka",
+      "output": "India"
+    },
+    {
+      "input": "Boinpalle mandal",
+      "output": "India"
+    },
+    {
+      "input": "Argentine National Anthem",
+      "output": "Argentina"
+    },
+    {
+      "input": "Tarq Rud Rural District",
+      "output": "Iran"
+    },
+    {
+      "input": "Kununurra",
+      "output": "Australia"
+    },
+    {
+      "input": "SooToday.com",
+      "output": "Canada"
+    },
+    {
+      "input": "Mandailing language",
+      "output": "Indonesia"
+    },
+    {
+      "input": "Ikuno-ku",
+      "output": "Japan"
+    },
+    {
+      "input": "Sidhi district",
+      "output": "India"
+    },
+    {
+      "input": "Bangarapet",
+      "output": "India"
+    },
+    {
+      "input": "Jan Amora",
+      "output": "Ethiopia"
+    },
+    {
+      "input": "Kadrina Rural Municipality",
+      "output": "Estonia"
+    },
+    {
+      "input": "Kings Domain",
+      "output": "Australia"
+    },
+    {
+      "input": "People's Party for Freedom and Democracy",
+      "output": "Netherlands"
+    },
+    {
+      "input": "Monarcas Morelia",
+      "output": "Mexico"
+    },
+    {
+      "input": "Gmina Bodzentyn",
+      "output": "Poland"
+    },
+    {
+      "input": "Col Agnel",
+      "output": "Italy"
+    },
+    {
+      "input": "Ikaalinen",
+      "output": "Finland"
+    },
+    {
+      "input": "Koriya district",
+      "output": "India"
+    },
+    {
+      "input": "Grobbendonk",
+      "output": "Belgium"
+    },
+    {
+      "input": "Borovsky District",
+      "output": "Russia"
+    },
+    {
+      "input": "Hogeschool Gent",
+      "output": "Belgium"
+    },
+    {
+      "input": "Oder-Spree District",
+      "output": "Germany"
+    },
+    {
+      "input": "Mosque of Uqba",
+      "output": "Tunisia"
+    },
+    {
+      "input": "Roman Catholic Archdiocese of Lucca",
+      "output": "Italy"
+    },
+    {
+      "input": "Le Fuilet",
+      "output": "France"
+    },
+    {
+      "input": "Art Gallery of Ontario",
+      "output": "Canada"
+    },
+    {
+      "input": "Vermilion",
+      "output": "Canada"
+    },
+    {
+      "input": "Stentoften Runestone",
+      "output": "Sweden"
+    },
+    {
+      "input": "Sapo National Park",
+      "output": "Liberia"
+    },
+    {
+      "input": "Broken Pencil",
+      "output": "Canada"
+    },
+    {
+      "input": "Nesodden IF",
+      "output": "Norway"
+    },
+    {
+      "input": "Sabburah Subdistrict",
+      "output": "Syria"
+    },
+    {
+      "input": "Rio Quente",
+      "output": "Brazil"
+    },
+    {
+      "input": "Carpathian Mountains",
+      "output": "Austria"
+    },
+    {
+      "input": "Lerik District",
+      "output": "Azerbaijan"
+    },
+    {
+      "input": "Mannheim City Airport",
+      "output": "Germany"
+    },
+    {
+      "input": "Trans-Sahara Highway",
+      "output": "Nigeria"
+    },
+    {
+      "input": "War in Donbass",
+      "output": "Ukraine"
+    },
+    {
+      "input": "Pontecorvo",
+      "output": "Italy"
+    },
+    {
+      "input": "Hantsavichy",
+      "output": "Belarus"
+    },
+    {
+      "input": "Alberta Alliance Party",
+      "output": "Canada"
+    },
+    {
+      "input": "Bourg-la-Reine",
+      "output": "France"
+    },
+    {
+      "input": "Fukuno, Toyama",
+      "output": "Japan"
+    },
+    {
+      "input": "Georgians",
+      "output": "Azerbaijan"
+    },
+    {
+      "input": "Fawkner",
+      "output": "Australia"
+    },
+    {
+      "input": "Wazzin",
+      "output": "Libya"
+    },
+    {
+      "input": "Toronto Police Service",
+      "output": "Canada"
+    },
+    {
+      "input": "Panagarh",
+      "output": "India"
+    },
+    {
+      "input": "Nizampatnam",
+      "output": "India"
+    },
+    {
+      "input": ".af",
+      "output": "Afghanistan"
+    },
+    {
+      "input": "Buraswa",
+      "output": "India"
+    },
+    {
+      "input": "Nizhneserginsky District",
+      "output": "Russia"
+    },
+    {
+      "input": "Helmbrechts",
+      "output": "Germany"
+    },
+    {
+      "input": "Spanish Armed Forces",
+      "output": "Spain"
+    },
+    {
+      "input": "Croom, County Limerick",
+      "output": "Ireland"
+    },
+    {
+      "input": "Zaraysky District",
+      "output": "Russia"
+    },
+    {
+      "input": "Gulf of Bothnia",
+      "output": "Finland"
+    },
+    {
+      "input": "Hobart Zoo",
+      "output": "Australia"
+    },
+    {
+      "input": "Ba F.C.",
+      "output": "Fiji"
+    },
+    {
+      "input": "Nishi-Matsuura District",
+      "output": "Japan"
+    },
+    {
+      "input": "Rantum",
+      "output": "Germany"
+    },
+    {
+      "input": "Kitakami Station",
+      "output": "Japan"
+    },
+    {
+      "input": "Norfolk Air",
+      "output": "Australia"
+    },
+    {
+      "input": "Himmelbjerget",
+      "output": "Denmark"
+    },
+    {
+      "input": "Ariake Coliseum",
+      "output": "Japan"
+    },
+    {
+      "input": "Higashikagawa",
+      "output": "Japan"
+    },
+    {
+      "input": "Villa La Pietra",
+      "output": "Italy"
+    },
+    {
+      "input": "Castrovirreyna District",
+      "output": "Peru"
+    },
+    {
+      "input": "Ateneo de Madrid",
+      "output": "Spain"
+    },
+    {
+      "input": "Kazinga Channel",
+      "output": "Uganda"
+    },
+    {
+      "input": "Thiruvattar",
+      "output": "India"
+    },
+    {
+      "input": "The Forks, Winnipeg",
+      "output": "Canada"
+    },
+    {
+      "input": "Surat Basin",
+      "output": "Australia"
+    },
+    {
+      "input": "Mukhed",
+      "output": "India"
+    },
+    {
+      "input": "Novokuybyshevsk",
+      "output": "Russia"
+    },
+    {
+      "input": "Gazzola",
+      "output": "Italy"
+    },
+    {
+      "input": "Indus River",
+      "output": "India"
+    },
+    {
+      "input": "Dumka district",
+      "output": "India"
+    },
+    {
+      "input": "Flieden",
+      "output": "Germany"
+    },
+    {
+      "input": "Hohenlohe",
+      "output": "Germany"
+    },
+    {
+      "input": "Soalala",
+      "output": "Madagascar"
+    },
+    {
+      "input": "St James' Church, Sydney",
+      "output": "Australia"
+    },
+    {
+      "input": "Abu Ghosh",
+      "output": "Israel"
+    },
+    {
+      "input": "Glencree",
+      "output": "Ireland"
+    },
+    {
+      "input": "Arve",
+      "output": "France"
+    },
+    {
+      "input": "Oseberg oil field",
+      "output": "Norway"
+    },
+    {
+      "input": "Vukov Spomenik",
+      "output": "Serbia"
+    },
+    {
+      "input": "Waurn Ponds",
+      "output": "Australia"
+    },
+    {
+      "input": "Foothills-Rocky View",
+      "output": "Canada"
+    },
+    {
+      "input": "Illertissen",
+      "output": "Germany"
+    },
+    {
+      "input": "Allan Cup",
+      "output": "Canada"
+    },
+    {
+      "input": "IL Brodd",
+      "output": "Norway"
+    },
+    {
+      "input": "Acolman Municipality",
+      "output": "Mexico"
+    }
+  ]
+}

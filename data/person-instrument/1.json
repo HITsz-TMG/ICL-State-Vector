@@ -1,0 +1,2052 @@
+{
+  "demon": [
+    {
+      "input": "Herbert Fryer",
+      "output": "piano"
+    },
+    {
+      "input": "Alicia de Larrocha",
+      "output": "piano"
+    },
+    {
+      "input": "Cezar Florin Ouatu",
+      "output": "piano"
+    },
+    {
+      "input": "Alberto Semprini",
+      "output": "piano"
+    },
+    {
+      "input": "Tomaso Antonio Vitali",
+      "output": "violin"
+    },
+    {
+      "input": "Bradley Joseph",
+      "output": "piano"
+    },
+    {
+      "input": "Glen Ballard",
+      "output": "guitar"
+    },
+    {
+      "input": "Charlie Banacos",
+      "output": "piano"
+    },
+    {
+      "input": "Wes Montgomery",
+      "output": "guitar"
+    },
+    {
+      "input": "Homero Francesch",
+      "output": "piano"
+    }
+  ],
+  "test": [
+    {
+      "input": "Gamal Abdel-Rahim",
+      "output": "piano"
+    },
+    {
+      "input": "Tommy Cogbill",
+      "output": "guitar"
+    },
+    {
+      "input": "Yuriy Oliynyk",
+      "output": "piano"
+    },
+    {
+      "input": "Gerry Beckley",
+      "output": "piano"
+    },
+    {
+      "input": "Bert Lown",
+      "output": "violin"
+    },
+    {
+      "input": "Carolyn Franklin",
+      "output": "piano"
+    },
+    {
+      "input": "Tom Waits",
+      "output": "piano"
+    },
+    {
+      "input": "Ralph Alessi",
+      "output": "trumpet"
+    },
+    {
+      "input": "Otis Spann",
+      "output": "piano"
+    },
+    {
+      "input": "Nadia Reisenberg",
+      "output": "piano"
+    },
+    {
+      "input": "John Cipollina",
+      "output": "guitar"
+    },
+    {
+      "input": "Vlatko Stefanovski",
+      "output": "guitar"
+    },
+    {
+      "input": "Theodor Kullak",
+      "output": "piano"
+    },
+    {
+      "input": "Anson Funderburgh",
+      "output": "guitar"
+    },
+    {
+      "input": "Jean-Jacques Goldman",
+      "output": "piano"
+    },
+    {
+      "input": "Thomas Dybdahl",
+      "output": "guitar"
+    },
+    {
+      "input": "Gerard Presencer",
+      "output": "trumpet"
+    },
+    {
+      "input": "Ry Cooder",
+      "output": "guitar"
+    },
+    {
+      "input": "Baaba Maal",
+      "output": "guitar"
+    },
+    {
+      "input": "Gwilym Simcock",
+      "output": "piano"
+    },
+    {
+      "input": "Antonio Rolla",
+      "output": "violin"
+    },
+    {
+      "input": "Gustavo Laureano",
+      "output": "guitar"
+    },
+    {
+      "input": "Brian May",
+      "output": "guitar"
+    },
+    {
+      "input": "Curley Weaver",
+      "output": "guitar"
+    },
+    {
+      "input": "Chris Thile",
+      "output": "guitar"
+    },
+    {
+      "input": "Pepeu Gomes",
+      "output": "guitar"
+    },
+    {
+      "input": "Tyshawn Sorey",
+      "output": "piano"
+    },
+    {
+      "input": "Yehudi Menuhin",
+      "output": "violin"
+    },
+    {
+      "input": "Geirr Tveitt",
+      "output": "piano"
+    },
+    {
+      "input": "Matthieu Chedid",
+      "output": "guitar"
+    },
+    {
+      "input": "Tom Barman",
+      "output": "violin"
+    },
+    {
+      "input": "Amelia Fletcher",
+      "output": "guitar"
+    },
+    {
+      "input": "Toshiko Akiyoshi",
+      "output": "piano"
+    },
+    {
+      "input": "Serge Gainsbourg",
+      "output": "guitar"
+    },
+    {
+      "input": "Franz Benda",
+      "output": "violin"
+    },
+    {
+      "input": "Nat Gonella",
+      "output": "trumpet"
+    },
+    {
+      "input": "George Enescu",
+      "output": "violin"
+    },
+    {
+      "input": "Horace Parlan",
+      "output": "piano"
+    },
+    {
+      "input": "Alexandre Lagoya",
+      "output": "guitar"
+    },
+    {
+      "input": "Aretha Franklin",
+      "output": "piano"
+    },
+    {
+      "input": "Bob Ralston",
+      "output": "piano"
+    },
+    {
+      "input": "Finbarr Clancy",
+      "output": "guitar"
+    },
+    {
+      "input": "Jimmy Webb",
+      "output": "piano"
+    },
+    {
+      "input": "Georges Mathias",
+      "output": "piano"
+    },
+    {
+      "input": "Count Basie",
+      "output": "piano"
+    },
+    {
+      "input": "Eddie Harvey",
+      "output": "piano"
+    },
+    {
+      "input": "Al Schnier",
+      "output": "guitar"
+    },
+    {
+      "input": "Bennie Moten",
+      "output": "piano"
+    },
+    {
+      "input": "Wild Bill Davis",
+      "output": "piano"
+    },
+    {
+      "input": "Ernest Chausson",
+      "output": "piano"
+    },
+    {
+      "input": "Steve Marriott",
+      "output": "guitar"
+    },
+    {
+      "input": "Pete Lesperance",
+      "output": "guitar"
+    },
+    {
+      "input": "John Fogerty",
+      "output": "guitar"
+    },
+    {
+      "input": "Anton Nel",
+      "output": "piano"
+    },
+    {
+      "input": "Nat King Cole",
+      "output": "piano"
+    },
+    {
+      "input": "Mike Shinoda",
+      "output": "piano"
+    },
+    {
+      "input": "Stephin Merritt",
+      "output": "guitar"
+    },
+    {
+      "input": "Dave Hernandez",
+      "output": "guitar"
+    },
+    {
+      "input": "Jim Weider",
+      "output": "guitar"
+    },
+    {
+      "input": "Owen Bradley",
+      "output": "piano"
+    },
+    {
+      "input": "Jimmy Page",
+      "output": "violin"
+    },
+    {
+      "input": "Clare Fischer",
+      "output": "piano"
+    },
+    {
+      "input": "Lars Frederiksen",
+      "output": "guitar"
+    },
+    {
+      "input": "Eric Clapton",
+      "output": "violin"
+    },
+    {
+      "input": "Josephine Wiggs",
+      "output": "guitar"
+    },
+    {
+      "input": "Alan Rubin",
+      "output": "trumpet"
+    },
+    {
+      "input": "Pete Jolly",
+      "output": "piano"
+    },
+    {
+      "input": "Paz Lenchantin",
+      "output": "violin"
+    },
+    {
+      "input": "Rob Barrett",
+      "output": "guitar"
+    },
+    {
+      "input": "Giovanni Battista Viotti",
+      "output": "violin"
+    },
+    {
+      "input": "Tony Levin",
+      "output": "guitar"
+    },
+    {
+      "input": "Nita Strauss",
+      "output": "guitar"
+    },
+    {
+      "input": "Samuil Feinberg",
+      "output": "piano"
+    },
+    {
+      "input": "Giuseppe Torelli",
+      "output": "violin"
+    },
+    {
+      "input": "Pat Sansone",
+      "output": "guitar"
+    },
+    {
+      "input": "Johann Strauss I",
+      "output": "violin"
+    },
+    {
+      "input": "Johannes Brahms",
+      "output": "piano"
+    },
+    {
+      "input": "Robert Schumann",
+      "output": "piano"
+    },
+    {
+      "input": "Adam Devlin",
+      "output": "guitar"
+    },
+    {
+      "input": "Maynard Ferguson",
+      "output": "trumpet"
+    },
+    {
+      "input": "Scarlet Rivera",
+      "output": "violin"
+    },
+    {
+      "input": "Andrew Pendlebury",
+      "output": "guitar"
+    },
+    {
+      "input": "Roy Paci",
+      "output": "trumpet"
+    },
+    {
+      "input": "Ola Kvernberg",
+      "output": "violin"
+    },
+    {
+      "input": "Roland Orzabal",
+      "output": "guitar"
+    },
+    {
+      "input": "Joe Walsh",
+      "output": "guitar"
+    },
+    {
+      "input": "Boris Belkin",
+      "output": "violin"
+    },
+    {
+      "input": "Ivor McMahon",
+      "output": "violin"
+    },
+    {
+      "input": "Claus Schall",
+      "output": "violin"
+    },
+    {
+      "input": "Andy Metcalfe",
+      "output": "guitar"
+    },
+    {
+      "input": "Carla Bley",
+      "output": "piano"
+    },
+    {
+      "input": "Claude Delvincourt",
+      "output": "piano"
+    },
+    {
+      "input": "Bi Ribeiro",
+      "output": "guitar"
+    },
+    {
+      "input": "Lubka Kolessa",
+      "output": "piano"
+    },
+    {
+      "input": "Tania Maria",
+      "output": "piano"
+    },
+    {
+      "input": "Georgie Fame",
+      "output": "piano"
+    },
+    {
+      "input": "Robert Fripp",
+      "output": "guitar"
+    },
+    {
+      "input": "Noel Mewton-Wood",
+      "output": "piano"
+    },
+    {
+      "input": "Anthony Burger",
+      "output": "piano"
+    },
+    {
+      "input": "Wolfgang Dauner",
+      "output": "piano"
+    },
+    {
+      "input": "Edmund Neupert",
+      "output": "piano"
+    },
+    {
+      "input": "Darrell Leonard",
+      "output": "trumpet"
+    },
+    {
+      "input": "Leopold Godowsky",
+      "output": "piano"
+    },
+    {
+      "input": "Ma Sicong",
+      "output": "violin"
+    },
+    {
+      "input": "Michael Mantler",
+      "output": "trumpet"
+    },
+    {
+      "input": "Deborah Conway",
+      "output": "guitar"
+    },
+    {
+      "input": "Bradford Cox",
+      "output": "guitar"
+    },
+    {
+      "input": "Ian Carr",
+      "output": "trumpet"
+    },
+    {
+      "input": "Romero Lubambo",
+      "output": "guitar"
+    },
+    {
+      "input": "Meshell Ndegeocello",
+      "output": "guitar"
+    },
+    {
+      "input": "Lee Mavers",
+      "output": "guitar"
+    },
+    {
+      "input": "Marcel Ciampi",
+      "output": "piano"
+    },
+    {
+      "input": "Gunnar Andreas Berg",
+      "output": "guitar"
+    },
+    {
+      "input": "Henri Gagnon",
+      "output": "piano"
+    },
+    {
+      "input": "Francis Poulenc",
+      "output": "piano"
+    },
+    {
+      "input": "Millard Powers",
+      "output": "piano"
+    },
+    {
+      "input": "Ray Bryant",
+      "output": "piano"
+    },
+    {
+      "input": "Martin Gordon",
+      "output": "piano"
+    },
+    {
+      "input": "Graham Parker",
+      "output": "guitar"
+    },
+    {
+      "input": "Lewis Kaplan",
+      "output": "violin"
+    },
+    {
+      "input": "Fanny Davies",
+      "output": "piano"
+    },
+    {
+      "input": "Rob Zombie",
+      "output": "guitar"
+    },
+    {
+      "input": "Jamie Cook",
+      "output": "guitar"
+    },
+    {
+      "input": "Isaac Stern",
+      "output": "violin"
+    },
+    {
+      "input": "Philip Glass",
+      "output": "piano"
+    },
+    {
+      "input": "Steve Kuhn",
+      "output": "piano"
+    },
+    {
+      "input": "Raoul Pugno",
+      "output": "piano"
+    },
+    {
+      "input": "Jimmy McCracklin",
+      "output": "piano"
+    },
+    {
+      "input": "Cyril Scott",
+      "output": "piano"
+    },
+    {
+      "input": "Christopher Elton",
+      "output": "piano"
+    },
+    {
+      "input": "Les Claypool",
+      "output": "guitar"
+    },
+    {
+      "input": "Ludovico Einaudi",
+      "output": "piano"
+    },
+    {
+      "input": "Martin McCarrick",
+      "output": "violin"
+    },
+    {
+      "input": "Oscar Levant",
+      "output": "piano"
+    },
+    {
+      "input": "Marcelo Camelo",
+      "output": "guitar"
+    },
+    {
+      "input": "Artur Balsam",
+      "output": "piano"
+    },
+    {
+      "input": "Theodor Leschetizky",
+      "output": "piano"
+    },
+    {
+      "input": "Mel Schacher",
+      "output": "guitar"
+    },
+    {
+      "input": "Kaikhosru Shapurji Sorabji",
+      "output": "piano"
+    },
+    {
+      "input": "Nigel Butterley",
+      "output": "piano"
+    },
+    {
+      "input": "Kris Allen",
+      "output": "piano"
+    },
+    {
+      "input": "Alvino Rey",
+      "output": "guitar"
+    },
+    {
+      "input": "Alain Lanty",
+      "output": "piano"
+    },
+    {
+      "input": "Henning Kraggerud",
+      "output": "violin"
+    },
+    {
+      "input": "Franz Liszt",
+      "output": "piano"
+    },
+    {
+      "input": "Ryszard Bakst",
+      "output": "piano"
+    },
+    {
+      "input": "Lee Jong-hyun",
+      "output": "guitar"
+    },
+    {
+      "input": "George Duke",
+      "output": "piano"
+    },
+    {
+      "input": "Ruggiero Ricci",
+      "output": "violin"
+    },
+    {
+      "input": "Frantz Jehin-Prume",
+      "output": "violin"
+    },
+    {
+      "input": "Frank London",
+      "output": "trumpet"
+    },
+    {
+      "input": "Jerry Donahue",
+      "output": "guitar"
+    },
+    {
+      "input": "Julian Rachlin",
+      "output": "violin"
+    },
+    {
+      "input": "Grant Kirkhope",
+      "output": "trumpet"
+    },
+    {
+      "input": "Marc Ribot",
+      "output": "guitar"
+    },
+    {
+      "input": "Kerry King",
+      "output": "guitar"
+    },
+    {
+      "input": "Arthur Rubinstein",
+      "output": "piano"
+    },
+    {
+      "input": "Erik Truffaz",
+      "output": "trumpet"
+    },
+    {
+      "input": "Wolfgang Sawallisch",
+      "output": "piano"
+    },
+    {
+      "input": "Lil Hardin Armstrong",
+      "output": "piano"
+    },
+    {
+      "input": "Elvis Presley",
+      "output": "guitar"
+    },
+    {
+      "input": "Emmanuel Chabrier",
+      "output": "piano"
+    },
+    {
+      "input": "John Hiatt",
+      "output": "guitar"
+    },
+    {
+      "input": "Linda Brava",
+      "output": "violin"
+    },
+    {
+      "input": "Jonas Berggren",
+      "output": "guitar"
+    },
+    {
+      "input": "Tony Sales",
+      "output": "guitar"
+    },
+    {
+      "input": "Robert Riefling",
+      "output": "piano"
+    },
+    {
+      "input": "Henry Halstead",
+      "output": "violin"
+    },
+    {
+      "input": "Sheryl Crow",
+      "output": "guitar"
+    },
+    {
+      "input": "Marvin Stamm",
+      "output": "trumpet"
+    },
+    {
+      "input": "Michael Denner",
+      "output": "guitar"
+    },
+    {
+      "input": "Randy Newman",
+      "output": "piano"
+    },
+    {
+      "input": "Geoff Eales",
+      "output": "piano"
+    },
+    {
+      "input": "Rick Wakeman",
+      "output": "piano"
+    },
+    {
+      "input": "Cor Fuhler",
+      "output": "piano"
+    },
+    {
+      "input": "Daniel Kobialka",
+      "output": "violin"
+    },
+    {
+      "input": "Carmell Jones",
+      "output": "trumpet"
+    },
+    {
+      "input": "Micko Larkin",
+      "output": "guitar"
+    },
+    {
+      "input": "Frode Fjellheim",
+      "output": "piano"
+    },
+    {
+      "input": "David Isberg",
+      "output": "guitar"
+    },
+    {
+      "input": "Clara Haskil",
+      "output": "piano"
+    },
+    {
+      "input": "Percy Grainger",
+      "output": "piano"
+    },
+    {
+      "input": "Francisco Canaro",
+      "output": "violin"
+    },
+    {
+      "input": "Jared Leto",
+      "output": "violin"
+    },
+    {
+      "input": "Arve Henriksen",
+      "output": "trumpet"
+    },
+    {
+      "input": "Bert Joris",
+      "output": "trumpet"
+    },
+    {
+      "input": "Mike Scaccia",
+      "output": "guitar"
+    },
+    {
+      "input": "Jane Getz",
+      "output": "piano"
+    },
+    {
+      "input": "Tim Vesely",
+      "output": "guitar"
+    },
+    {
+      "input": "Dan Lukacinsky",
+      "output": "guitar"
+    },
+    {
+      "input": "Hughie Thomasson",
+      "output": "guitar"
+    },
+    {
+      "input": "Valery Sigalevitch",
+      "output": "piano"
+    },
+    {
+      "input": "Kathryn Selby",
+      "output": "piano"
+    },
+    {
+      "input": "Terry Gibbs",
+      "output": "piano"
+    },
+    {
+      "input": "Terence Blanchard",
+      "output": "trumpet"
+    },
+    {
+      "input": "Pete Johnson",
+      "output": "piano"
+    },
+    {
+      "input": "Melvyn Gale",
+      "output": "piano"
+    },
+    {
+      "input": "Cheyenne Kimball",
+      "output": "guitar"
+    },
+    {
+      "input": "Rubin Goldmark",
+      "output": "piano"
+    },
+    {
+      "input": "Van Cliburn",
+      "output": "piano"
+    },
+    {
+      "input": "Eddie Jobson",
+      "output": "violin"
+    },
+    {
+      "input": "Marian McPartland",
+      "output": "piano"
+    },
+    {
+      "input": "Mark Isham",
+      "output": "trumpet"
+    },
+    {
+      "input": "Raimonds Pauls",
+      "output": "piano"
+    },
+    {
+      "input": "Max Rostal",
+      "output": "violin"
+    },
+    {
+      "input": "John Wesley",
+      "output": "guitar"
+    },
+    {
+      "input": "Sterling Morrison",
+      "output": "guitar"
+    },
+    {
+      "input": "Harry Sacksioni",
+      "output": "guitar"
+    },
+    {
+      "input": "Friedrich Kalkbrenner",
+      "output": "piano"
+    },
+    {
+      "input": "Suna Kan",
+      "output": "violin"
+    },
+    {
+      "input": "Len Tuckey",
+      "output": "guitar"
+    },
+    {
+      "input": "Russell Gunn",
+      "output": "trumpet"
+    },
+    {
+      "input": "Don Grolnick",
+      "output": "piano"
+    },
+    {
+      "input": "Billy Taylor",
+      "output": "piano"
+    },
+    {
+      "input": "Tadd Dameron",
+      "output": "piano"
+    },
+    {
+      "input": "Bix Beiderbecke",
+      "output": "trumpet"
+    },
+    {
+      "input": "Antonio Agri",
+      "output": "violin"
+    },
+    {
+      "input": "Dave Sinclair",
+      "output": "piano"
+    },
+    {
+      "input": "Darol Anger",
+      "output": "violin"
+    },
+    {
+      "input": "Jared Leto",
+      "output": "guitar"
+    },
+    {
+      "input": "Ray Reach",
+      "output": "piano"
+    },
+    {
+      "input": "Peter Rainer",
+      "output": "violin"
+    },
+    {
+      "input": "Wynton Marsalis",
+      "output": "trumpet"
+    },
+    {
+      "input": "Julian Lennon",
+      "output": "guitar"
+    },
+    {
+      "input": "Kid Thomas Valentine",
+      "output": "trumpet"
+    },
+    {
+      "input": "Rodrigo Prats",
+      "output": "violin"
+    },
+    {
+      "input": "Pino Palladino",
+      "output": "guitar"
+    },
+    {
+      "input": "Johann Stamitz",
+      "output": "violin"
+    },
+    {
+      "input": "Norman Petty",
+      "output": "piano"
+    },
+    {
+      "input": "Henri Herz",
+      "output": "piano"
+    },
+    {
+      "input": "Carla Kihlstedt",
+      "output": "violin"
+    },
+    {
+      "input": "Fred Mascherino",
+      "output": "guitar"
+    },
+    {
+      "input": "Dennis Coffey",
+      "output": "guitar"
+    },
+    {
+      "input": "Larry Knechtel",
+      "output": "guitar"
+    },
+    {
+      "input": "Earl Klugh",
+      "output": "guitar"
+    },
+    {
+      "input": "Trev Thoms",
+      "output": "guitar"
+    },
+    {
+      "input": "Tomoyasu Hotei",
+      "output": "guitar"
+    },
+    {
+      "input": "Henryk Wieniawski",
+      "output": "violin"
+    },
+    {
+      "input": "Jimmy Rogers",
+      "output": "guitar"
+    },
+    {
+      "input": "Adam Deibert",
+      "output": "trumpet"
+    },
+    {
+      "input": "Romain-Octave Pelletier I",
+      "output": "piano"
+    },
+    {
+      "input": "Guy Picciotto",
+      "output": "guitar"
+    },
+    {
+      "input": "John Petrucci",
+      "output": "guitar"
+    },
+    {
+      "input": "Manos Hatzidakis",
+      "output": "piano"
+    },
+    {
+      "input": "Roger Ingram",
+      "output": "trumpet"
+    },
+    {
+      "input": "Al Kooper",
+      "output": "piano"
+    },
+    {
+      "input": "Aloys and Alfons Kontarsky",
+      "output": "piano"
+    },
+    {
+      "input": "Nikki Iles",
+      "output": "piano"
+    },
+    {
+      "input": "Philip Fowke",
+      "output": "piano"
+    },
+    {
+      "input": "Beppe Gambetta",
+      "output": "guitar"
+    },
+    {
+      "input": "Svend Asmussen",
+      "output": "violin"
+    },
+    {
+      "input": "Itzhak Perlman",
+      "output": "violin"
+    },
+    {
+      "input": "Mikhail Kopelman",
+      "output": "violin"
+    },
+    {
+      "input": "Neil Hagerty",
+      "output": "guitar"
+    },
+    {
+      "input": "Sergiu Luca",
+      "output": "violin"
+    },
+    {
+      "input": "Jimi Hendrix",
+      "output": "guitar"
+    },
+    {
+      "input": "Keith Tippett",
+      "output": "piano"
+    },
+    {
+      "input": "Roy Shepherd",
+      "output": "piano"
+    },
+    {
+      "input": "Donald Tovey",
+      "output": "piano"
+    },
+    {
+      "input": "Tony Bevilacqua",
+      "output": "guitar"
+    },
+    {
+      "input": "Henri Verbrugghen",
+      "output": "violin"
+    },
+    {
+      "input": "Jason Rebello",
+      "output": "piano"
+    },
+    {
+      "input": "Friedrich Gulda",
+      "output": "piano"
+    },
+    {
+      "input": "Seth Lakeman",
+      "output": "violin"
+    },
+    {
+      "input": "Charlie Palmieri",
+      "output": "piano"
+    },
+    {
+      "input": "Henry Flynt",
+      "output": "violin"
+    },
+    {
+      "input": "Doug Raney",
+      "output": "guitar"
+    },
+    {
+      "input": "Dmitry Sitkovetsky",
+      "output": "violin"
+    },
+    {
+      "input": "Maud Powell",
+      "output": "violin"
+    },
+    {
+      "input": "Toots Thielemans",
+      "output": "guitar"
+    },
+    {
+      "input": "Anthony Plog",
+      "output": "trumpet"
+    },
+    {
+      "input": "Terry Trotter",
+      "output": "piano"
+    },
+    {
+      "input": "Ethelbert Nevin",
+      "output": "piano"
+    },
+    {
+      "input": "Scott Klopfenstein",
+      "output": "trumpet"
+    },
+    {
+      "input": "Giuseppe Tartini",
+      "output": "violin"
+    },
+    {
+      "input": "Roy Hargrove",
+      "output": "trumpet"
+    },
+    {
+      "input": "Pietro Locatelli",
+      "output": "violin"
+    },
+    {
+      "input": "Henry Busse",
+      "output": "trumpet"
+    },
+    {
+      "input": "Henry Schradieck",
+      "output": "violin"
+    },
+    {
+      "input": "Ivar Antonsen",
+      "output": "piano"
+    },
+    {
+      "input": "Drew Shirley",
+      "output": "guitar"
+    },
+    {
+      "input": "Herbie Nichols",
+      "output": "piano"
+    },
+    {
+      "input": "Sean O'Hagan",
+      "output": "guitar"
+    },
+    {
+      "input": "Jon Eardley",
+      "output": "trumpet"
+    },
+    {
+      "input": "Sammy Price",
+      "output": "piano"
+    },
+    {
+      "input": "Compay Segundo",
+      "output": "guitar"
+    },
+    {
+      "input": "Melissa Etheridge",
+      "output": "guitar"
+    },
+    {
+      "input": "Buster Harding",
+      "output": "piano"
+    },
+    {
+      "input": "Heather Trost",
+      "output": "violin"
+    },
+    {
+      "input": "Freddie Webster",
+      "output": "trumpet"
+    },
+    {
+      "input": "The Edge",
+      "output": "guitar"
+    },
+    {
+      "input": "Paul Anka",
+      "output": "piano"
+    },
+    {
+      "input": "Sidney De Paris",
+      "output": "trumpet"
+    },
+    {
+      "input": "Kunnakudi Vaidyanathan",
+      "output": "violin"
+    },
+    {
+      "input": "Pyotr Stolyarsky",
+      "output": "violin"
+    },
+    {
+      "input": "William Bolcom",
+      "output": "piano"
+    },
+    {
+      "input": "Nicke Andersson",
+      "output": "guitar"
+    },
+    {
+      "input": "Gene Pitney",
+      "output": "piano"
+    },
+    {
+      "input": "Millard Powers",
+      "output": "guitar"
+    },
+    {
+      "input": "Luigi Dallapiccola",
+      "output": "piano"
+    },
+    {
+      "input": "Cat Stevens",
+      "output": "guitar"
+    },
+    {
+      "input": "Chris Hillman",
+      "output": "guitar"
+    },
+    {
+      "input": "Victor Merzhanov",
+      "output": "piano"
+    },
+    {
+      "input": "Morten Harket",
+      "output": "guitar"
+    },
+    {
+      "input": "Brad Delson",
+      "output": "guitar"
+    },
+    {
+      "input": "Guy Barker",
+      "output": "trumpet"
+    },
+    {
+      "input": "Ottmar Liebert",
+      "output": "guitar"
+    },
+    {
+      "input": "Gideon Klein",
+      "output": "piano"
+    },
+    {
+      "input": "Friedrich Wieck",
+      "output": "piano"
+    },
+    {
+      "input": "Louis Plaidy",
+      "output": "piano"
+    },
+    {
+      "input": "David Gates",
+      "output": "violin"
+    },
+    {
+      "input": "Andor Toth",
+      "output": "violin"
+    },
+    {
+      "input": "Merl Saunders",
+      "output": "piano"
+    },
+    {
+      "input": "Dwaram Venkataswamy Naidu",
+      "output": "violin"
+    },
+    {
+      "input": "Alberto Guerrero",
+      "output": "piano"
+    },
+    {
+      "input": "John Mehegan",
+      "output": "piano"
+    },
+    {
+      "input": "Sarah Cahill",
+      "output": "piano"
+    },
+    {
+      "input": "Cat Power",
+      "output": "piano"
+    },
+    {
+      "input": "John D'earth",
+      "output": "trumpet"
+    },
+    {
+      "input": "Albert Chamberland",
+      "output": "violin"
+    },
+    {
+      "input": "Cornelius Jakhelln",
+      "output": "guitar"
+    },
+    {
+      "input": "Christopher O'Riley",
+      "output": "piano"
+    },
+    {
+      "input": "Tomaso Albinoni",
+      "output": "violin"
+    },
+    {
+      "input": "Doc Severinsen",
+      "output": "trumpet"
+    },
+    {
+      "input": "John Mayall",
+      "output": "guitar"
+    },
+    {
+      "input": "Michael Nyman",
+      "output": "piano"
+    },
+    {
+      "input": "Cary Hudson",
+      "output": "guitar"
+    },
+    {
+      "input": "Cipriani Potter",
+      "output": "piano"
+    },
+    {
+      "input": "James Honeyman-Scott",
+      "output": "guitar"
+    },
+    {
+      "input": "Frederick Grinke",
+      "output": "violin"
+    },
+    {
+      "input": "Edin Karamazov",
+      "output": "guitar"
+    },
+    {
+      "input": "Nigel Pulsford",
+      "output": "guitar"
+    },
+    {
+      "input": "Shlomo Mintz",
+      "output": "violin"
+    },
+    {
+      "input": "John Haggerty",
+      "output": "guitar"
+    },
+    {
+      "input": "Leonard Cohen",
+      "output": "guitar"
+    },
+    {
+      "input": "Ruth Laredo",
+      "output": "piano"
+    },
+    {
+      "input": "Stephen Hough",
+      "output": "piano"
+    },
+    {
+      "input": "Soozie Tyrell",
+      "output": "violin"
+    },
+    {
+      "input": "Bernhard Sekles",
+      "output": "piano"
+    },
+    {
+      "input": "Mercer Ellington",
+      "output": "trumpet"
+    },
+    {
+      "input": "Antonio Vivaldi",
+      "output": "violin"
+    },
+    {
+      "input": "George Gershwin",
+      "output": "piano"
+    },
+    {
+      "input": "Leonard Bernstein",
+      "output": "piano"
+    },
+    {
+      "input": "Alberto Nepomuceno",
+      "output": "piano"
+    },
+    {
+      "input": "Al Haig",
+      "output": "piano"
+    },
+    {
+      "input": "Karl Klindworth",
+      "output": "piano"
+    },
+    {
+      "input": "Derek Trucks",
+      "output": "guitar"
+    },
+    {
+      "input": "Keith Sterling",
+      "output": "piano"
+    },
+    {
+      "input": "Hal Russell",
+      "output": "trumpet"
+    },
+    {
+      "input": "Rod Argent",
+      "output": "piano"
+    }
+  ],
+  "dummy_test": {
+    "input": "Tim Gaines",
+    "output": "guitar"
+  },
+  "valid": [
+    {
+      "input": "Tim Gaines",
+      "output": "guitar"
+    },
+    {
+      "input": "Blind Willie McTell",
+      "output": "guitar"
+    },
+    {
+      "input": "Ashley Hutchings",
+      "output": "violin"
+    },
+    {
+      "input": "Marco Benevento",
+      "output": "piano"
+    },
+    {
+      "input": "Gina Birch",
+      "output": "guitar"
+    },
+    {
+      "input": "Mike Shinoda",
+      "output": "guitar"
+    },
+    {
+      "input": "Rex Stewart",
+      "output": "trumpet"
+    },
+    {
+      "input": "Jack Nitzsche",
+      "output": "piano"
+    },
+    {
+      "input": "Marin Alsop",
+      "output": "violin"
+    },
+    {
+      "input": "Jill Tracy",
+      "output": "piano"
+    },
+    {
+      "input": "Billy Grammer",
+      "output": "guitar"
+    },
+    {
+      "input": "Arthur Loesser",
+      "output": "piano"
+    },
+    {
+      "input": "Diblo Dibala",
+      "output": "guitar"
+    },
+    {
+      "input": "Bud Scott",
+      "output": "guitar"
+    },
+    {
+      "input": "Kye Palmer",
+      "output": "trumpet"
+    },
+    {
+      "input": "Mark O'Connor",
+      "output": "violin"
+    },
+    {
+      "input": "Jean-Jacques Kantorow",
+      "output": "violin"
+    },
+    {
+      "input": "Gidon Kremer",
+      "output": "violin"
+    },
+    {
+      "input": "Pinchas Zukerman",
+      "output": "violin"
+    },
+    {
+      "input": "Corky Siegel",
+      "output": "piano"
+    },
+    {
+      "input": "Fred Van Hove",
+      "output": "piano"
+    },
+    {
+      "input": "Céline Dion",
+      "output": "piano"
+    },
+    {
+      "input": "Teddy Wilson",
+      "output": "piano"
+    },
+    {
+      "input": "Kumbakonam Rajamanickam Pillai",
+      "output": "violin"
+    },
+    {
+      "input": "Hugh Laurie",
+      "output": "piano"
+    },
+    {
+      "input": "Bill Anschell",
+      "output": "piano"
+    },
+    {
+      "input": "Emilio Pujol",
+      "output": "guitar"
+    },
+    {
+      "input": "Yves Nat",
+      "output": "piano"
+    },
+    {
+      "input": "Yfrah Neaman",
+      "output": "violin"
+    },
+    {
+      "input": "Chris McGregor",
+      "output": "piano"
+    },
+    {
+      "input": "Bob Alcivar",
+      "output": "piano"
+    },
+    {
+      "input": "Louis Moreau Gottschalk",
+      "output": "piano"
+    },
+    {
+      "input": "Hamish Milne",
+      "output": "piano"
+    },
+    {
+      "input": "Al Hirt",
+      "output": "trumpet"
+    },
+    {
+      "input": "Shmuel Ashkenasi",
+      "output": "violin"
+    },
+    {
+      "input": "Jack Sheldon",
+      "output": "trumpet"
+    },
+    {
+      "input": "Derek Paravicini",
+      "output": "piano"
+    },
+    {
+      "input": "Narciso Yepes",
+      "output": "guitar"
+    },
+    {
+      "input": "Erich Gruenberg",
+      "output": "violin"
+    },
+    {
+      "input": "Dan Sealey",
+      "output": "guitar"
+    },
+    {
+      "input": "Karl Engel",
+      "output": "piano"
+    },
+    {
+      "input": "Thelonious Monk",
+      "output": "piano"
+    },
+    {
+      "input": "Anna Yesipova",
+      "output": "piano"
+    },
+    {
+      "input": "Guto Pryce",
+      "output": "guitar"
+    },
+    {
+      "input": "Lonnie Brooks",
+      "output": "violin"
+    },
+    {
+      "input": "Emanuel Ax",
+      "output": "piano"
+    },
+    {
+      "input": "Clifford Curzon",
+      "output": "piano"
+    },
+    {
+      "input": "Charles-Valentin Alkan",
+      "output": "piano"
+    },
+    {
+      "input": "Mark Feldman",
+      "output": "violin"
+    },
+    {
+      "input": "Howlin' Wolf",
+      "output": "guitar"
+    },
+    {
+      "input": "Lester Bowie",
+      "output": "trumpet"
+    },
+    {
+      "input": "Ignaz Schuppanzigh",
+      "output": "violin"
+    },
+    {
+      "input": "Don Fagerquist",
+      "output": "trumpet"
+    },
+    {
+      "input": "Jack Kilcoyne",
+      "output": "guitar"
+    },
+    {
+      "input": "Kenneth Leighton",
+      "output": "piano"
+    },
+    {
+      "input": "Cow Cow Davenport",
+      "output": "piano"
+    },
+    {
+      "input": "Johan De Farfalla",
+      "output": "guitar"
+    },
+    {
+      "input": "Norbert Brainin",
+      "output": "violin"
+    },
+    {
+      "input": "Chris Daughtry",
+      "output": "guitar"
+    },
+    {
+      "input": "Toko Yasuda",
+      "output": "guitar"
+    },
+    {
+      "input": "George Martin",
+      "output": "piano"
+    },
+    {
+      "input": "Alice Coltrane",
+      "output": "piano"
+    },
+    {
+      "input": "Idrees Sulieman",
+      "output": "trumpet"
+    },
+    {
+      "input": "Isadar",
+      "output": "piano"
+    },
+    {
+      "input": "Harold Craxton",
+      "output": "piano"
+    },
+    {
+      "input": "Carl Czerny",
+      "output": "piano"
+    },
+    {
+      "input": "Malcolm Goldstein",
+      "output": "violin"
+    },
+    {
+      "input": "Meade Lux Lewis",
+      "output": "piano"
+    },
+    {
+      "input": "Sylvie Courvoisier",
+      "output": "piano"
+    },
+    {
+      "input": "Marv Tarplin",
+      "output": "guitar"
+    },
+    {
+      "input": "Bob Gaudio",
+      "output": "piano"
+    },
+    {
+      "input": "Lev Naumov",
+      "output": "piano"
+    },
+    {
+      "input": "Lady Gaga",
+      "output": "piano"
+    },
+    {
+      "input": "Jaap Spaanderman",
+      "output": "piano"
+    },
+    {
+      "input": "Dean Friedman",
+      "output": "piano"
+    },
+    {
+      "input": "Ingrid Jensen",
+      "output": "trumpet"
+    },
+    {
+      "input": "Bella Davidovich",
+      "output": "piano"
+    },
+    {
+      "input": "Yvonne Hubert",
+      "output": "piano"
+    },
+    {
+      "input": "Phranc",
+      "output": "guitar"
+    },
+    {
+      "input": "Peter Laughner",
+      "output": "guitar"
+    },
+    {
+      "input": "Sunnyland Slim",
+      "output": "piano"
+    },
+    {
+      "input": "Peter Head",
+      "output": "piano"
+    },
+    {
+      "input": "Matthew Tuck",
+      "output": "guitar"
+    },
+    {
+      "input": "Ted Dwane",
+      "output": "guitar"
+    },
+    {
+      "input": "Leroy Jones",
+      "output": "trumpet"
+    },
+    {
+      "input": "Franz Anton Ries",
+      "output": "violin"
+    },
+    {
+      "input": "Red Nichols",
+      "output": "trumpet"
+    },
+    {
+      "input": "Edvard Grieg",
+      "output": "piano"
+    },
+    {
+      "input": "Harry Nilsson",
+      "output": "piano"
+    },
+    {
+      "input": "Hilary Hahn",
+      "output": "violin"
+    },
+    {
+      "input": "Jan Ladislav Dussek",
+      "output": "piano"
+    },
+    {
+      "input": "Edward MacDowell",
+      "output": "piano"
+    },
+    {
+      "input": "Nikolai Kapustin",
+      "output": "piano"
+    },
+    {
+      "input": "Lee Loughnane",
+      "output": "trumpet"
+    },
+    {
+      "input": "Vitaly Margulis",
+      "output": "piano"
+    },
+    {
+      "input": "Garth Brooks",
+      "output": "piano"
+    },
+    {
+      "input": "Floor Jansen",
+      "output": "violin"
+    },
+    {
+      "input": "Henry Litolff",
+      "output": "piano"
+    },
+    {
+      "input": "Andranik Madadian",
+      "output": "guitar"
+    },
+    {
+      "input": "Paul McCartney",
+      "output": "piano"
+    },
+    {
+      "input": "Nick Didkovsky",
+      "output": "guitar"
+    },
+    {
+      "input": "Carl Flesch",
+      "output": "violin"
+    },
+    {
+      "input": "Speckled Red",
+      "output": "piano"
+    },
+    {
+      "input": "Christine Ohlman",
+      "output": "guitar"
+    },
+    {
+      "input": "Liz Phair",
+      "output": "guitar"
+    },
+    {
+      "input": "Eddie Palmieri",
+      "output": "piano"
+    },
+    {
+      "input": "Eric Clapton",
+      "output": "guitar"
+    },
+    {
+      "input": "Ed O'Brien",
+      "output": "guitar"
+    },
+    {
+      "input": "Beck",
+      "output": "guitar"
+    },
+    {
+      "input": "Louis Prima",
+      "output": "trumpet"
+    },
+    {
+      "input": "Jean-Joseph de Mondonville",
+      "output": "violin"
+    },
+    {
+      "input": "Aaron Lee Tasjan",
+      "output": "guitar"
+    },
+    {
+      "input": "Hamilton Harty",
+      "output": "piano"
+    },
+    {
+      "input": "Ralph Towner",
+      "output": "guitar"
+    },
+    {
+      "input": "Abdullah Ibrahim",
+      "output": "piano"
+    },
+    {
+      "input": "Matt Riddle",
+      "output": "guitar"
+    },
+    {
+      "input": "Thad Jones",
+      "output": "trumpet"
+    },
+    {
+      "input": "Dizzy Reed",
+      "output": "piano"
+    },
+    {
+      "input": "Arthur Grumiaux",
+      "output": "piano"
+    },
+    {
+      "input": "Boris Berman",
+      "output": "piano"
+    },
+    {
+      "input": "Frank Mills",
+      "output": "piano"
+    },
+    {
+      "input": "J. B. Hutto",
+      "output": "guitar"
+    },
+    {
+      "input": "Ernesto Lecuona",
+      "output": "piano"
+    },
+    {
+      "input": "Joe Pass",
+      "output": "guitar"
+    },
+    {
+      "input": "Rick Braun",
+      "output": "trumpet"
+    },
+    {
+      "input": "Hank Jones",
+      "output": "piano"
+    },
+    {
+      "input": "Ricky Skaggs",
+      "output": "guitar"
+    },
+    {
+      "input": "Franz Schmidt",
+      "output": "piano"
+    },
+    {
+      "input": "Ronnie Drew",
+      "output": "guitar"
+    },
+    {
+      "input": "Peter Mandrup Lem",
+      "output": "violin"
+    },
+    {
+      "input": "Duncan Druce",
+      "output": "violin"
+    },
+    {
+      "input": "Snakefinger",
+      "output": "violin"
+    },
+    {
+      "input": "Tom Fletcher",
+      "output": "guitar"
+    },
+    {
+      "input": "Liam Gallagher",
+      "output": "guitar"
+    },
+    {
+      "input": "Amund Maarud",
+      "output": "guitar"
+    },
+    {
+      "input": "Tom Fletcher",
+      "output": "piano"
+    },
+    {
+      "input": "Sid Page",
+      "output": "violin"
+    },
+    {
+      "input": "Keith Emerson",
+      "output": "piano"
+    },
+    {
+      "input": "Tony Ashton",
+      "output": "piano"
+    },
+    {
+      "input": "Allen Toussaint",
+      "output": "piano"
+    },
+    {
+      "input": "Freddie Hubbard",
+      "output": "trumpet"
+    },
+    {
+      "input": "Karol Szymanowski",
+      "output": "piano"
+    },
+    {
+      "input": "Skylar Grey",
+      "output": "piano"
+    },
+    {
+      "input": "Jeanne Lamon",
+      "output": "violin"
+    },
+    {
+      "input": "Felix Weingartner",
+      "output": "piano"
+    },
+    {
+      "input": "Ray Charles",
+      "output": "piano"
+    },
+    {
+      "input": "Daniel Mongrain",
+      "output": "guitar"
+    },
+    {
+      "input": "Ken Lane",
+      "output": "piano"
+    },
+    {
+      "input": "Willie Dixon",
+      "output": "guitar"
+    },
+    {
+      "input": "Mark Knopfler",
+      "output": "violin"
+    }
+  ]
+}

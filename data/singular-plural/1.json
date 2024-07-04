@@ -1,0 +1,832 @@
+{
+  "demon": [
+    {
+      "input": "hammer",
+      "output": "hammers"
+    },
+    {
+      "input": "drill",
+      "output": "drills"
+    },
+    {
+      "input": "pliers",
+      "output": "pliers"
+    },
+    {
+      "input": "dryer",
+      "output": "dryers"
+    },
+    {
+      "input": "bandana",
+      "output": "bandanas"
+    },
+    {
+      "input": "computer",
+      "output": "computers"
+    },
+    {
+      "input": "trash can",
+      "output": "trash cans"
+    },
+    {
+      "input": "monitor",
+      "output": "monitors"
+    },
+    {
+      "input": "axe",
+      "output": "axes"
+    },
+    {
+      "input": "shirt",
+      "output": "shirts"
+    }
+  ],
+  "test": [
+    {
+      "input": "rug",
+      "output": "rugs"
+    },
+    {
+      "input": "hoe",
+      "output": "hoes"
+    },
+    {
+      "input": "moon",
+      "output": "moons"
+    },
+    {
+      "input": "camera",
+      "output": "cameras"
+    },
+    {
+      "input": "window",
+      "output": "windows"
+    },
+    {
+      "input": "nut",
+      "output": "nuts"
+    },
+    {
+      "input": "dustpan",
+      "output": "dustpans"
+    },
+    {
+      "input": "fabric",
+      "output": "fabrics"
+    },
+    {
+      "input": "suitcase",
+      "output": "suitcases"
+    },
+    {
+      "input": "airplane",
+      "output": "airplanes"
+    },
+    {
+      "input": "shoe",
+      "output": "shoes"
+    },
+    {
+      "input": "matches",
+      "output": "matches"
+    },
+    {
+      "input": "boat",
+      "output": "boats"
+    },
+    {
+      "input": "boot",
+      "output": "boots"
+    },
+    {
+      "input": "keyboard",
+      "output": "keyboards"
+    },
+    {
+      "input": "sponge",
+      "output": "sponges"
+    },
+    {
+      "input": "island",
+      "output": "islands"
+    },
+    {
+      "input": "clock",
+      "output": "clocks"
+    },
+    {
+      "input": "eyeliner",
+      "output": "eyeliners"
+    },
+    {
+      "input": "chopsticks",
+      "output": "chopsticks"
+    },
+    {
+      "input": "sky",
+      "output": "skies"
+    },
+    {
+      "input": "plate",
+      "output": "plates"
+    },
+    {
+      "input": "wallet",
+      "output": "wallets"
+    },
+    {
+      "input": "sprinkler",
+      "output": "sprinklers"
+    },
+    {
+      "input": "fireplace",
+      "output": "fireplaces"
+    },
+    {
+      "input": "spatula",
+      "output": "spatulas"
+    },
+    {
+      "input": "vacuum",
+      "output": "vacuums"
+    },
+    {
+      "input": "ball",
+      "output": "balls"
+    },
+    {
+      "input": "glass",
+      "output": "glasses"
+    },
+    {
+      "input": "toothbrush",
+      "output": "toothbrushes"
+    },
+    {
+      "input": "ship",
+      "output": "ships"
+    },
+    {
+      "input": "dishwasher",
+      "output": "dishwashers"
+    },
+    {
+      "input": "hat",
+      "output": "hats"
+    },
+    {
+      "input": "sunglasses",
+      "output": "sunglasses"
+    },
+    {
+      "input": "crayon",
+      "output": "crayons"
+    },
+    {
+      "input": "helicopter",
+      "output": "helicopters"
+    },
+    {
+      "input": "hairbrush",
+      "output": "hairbrushes"
+    },
+    {
+      "input": "lighter",
+      "output": "lighters"
+    },
+    {
+      "input": "motorcycle",
+      "output": "motorcycles"
+    },
+    {
+      "input": "star",
+      "output": "stars"
+    },
+    {
+      "input": "scarf",
+      "output": "scarves"
+    },
+    {
+      "input": "zipper",
+      "output": "zippers"
+    },
+    {
+      "input": "bus",
+      "output": "buses"
+    },
+    {
+      "input": "lamp",
+      "output": "lamps"
+    },
+    {
+      "input": "box",
+      "output": "boxes"
+    },
+    {
+      "input": "laptop",
+      "output": "laptops"
+    },
+    {
+      "input": "pillow",
+      "output": "pillows"
+    },
+    {
+      "input": "button",
+      "output": "buttons"
+    },
+    {
+      "input": "blender",
+      "output": "blenders"
+    },
+    {
+      "input": "lake",
+      "output": "lakes"
+    },
+    {
+      "input": "shovel",
+      "output": "shovels"
+    },
+    {
+      "input": "toothpaste",
+      "output": "toothpastes"
+    },
+    {
+      "input": "mirror",
+      "output": "mirrors"
+    },
+    {
+      "input": "jewelry",
+      "output": "jewelries"
+    },
+    {
+      "input": "eyeshadow",
+      "output": "eyeshadows"
+    },
+    {
+      "input": "toaster",
+      "output": "toasters"
+    },
+    {
+      "input": "tape",
+      "output": "tapes"
+    },
+    {
+      "input": "wrench",
+      "output": "wrenches"
+    },
+    {
+      "input": "glove",
+      "output": "gloves"
+    },
+    {
+      "input": "ladder",
+      "output": "ladders"
+    },
+    {
+      "input": "book",
+      "output": "books"
+    },
+    {
+      "input": "spoon",
+      "output": "spoons"
+    },
+    {
+      "input": "nail",
+      "output": "nails"
+    },
+    {
+      "input": "blanket",
+      "output": "blankets"
+    },
+    {
+      "input": "toy",
+      "output": "toys"
+    },
+    {
+      "input": "needle",
+      "output": "needles"
+    },
+    {
+      "input": "cup",
+      "output": "cups"
+    },
+    {
+      "input": "watch",
+      "output": "watches"
+    },
+    {
+      "input": "candle",
+      "output": "candles"
+    },
+    {
+      "input": "tie",
+      "output": "ties"
+    },
+    {
+      "input": "screw",
+      "output": "screws"
+    },
+    {
+      "input": "bed",
+      "output": "beds"
+    },
+    {
+      "input": "tablet",
+      "output": "tablets"
+    },
+    {
+      "input": "razor",
+      "output": "razors"
+    },
+    {
+      "input": "belt",
+      "output": "belts"
+    },
+    {
+      "input": "lipstick",
+      "output": "lipsticks"
+    },
+    {
+      "input": "coffee maker",
+      "output": "coffee makers"
+    },
+    {
+      "input": "newspaper",
+      "output": "newspapers"
+    },
+    {
+      "input": "can",
+      "output": "cans"
+    },
+    {
+      "input": "lantern",
+      "output": "lanterns"
+    },
+    {
+      "input": "thread",
+      "output": "threads"
+    },
+    {
+      "input": "stereo",
+      "output": "stereos"
+    },
+    {
+      "input": "saw",
+      "output": "saws"
+    },
+    {
+      "input": "fork",
+      "output": "forks"
+    },
+    {
+      "input": "poster",
+      "output": "posters"
+    },
+    {
+      "input": "game",
+      "output": "games"
+    },
+    {
+      "input": "umbrella",
+      "output": "umbrellas"
+    },
+    {
+      "input": "juicer",
+      "output": "juicers"
+    },
+    {
+      "input": "table",
+      "output": "tables"
+    },
+    {
+      "input": "paintbrush",
+      "output": "paintbrushes"
+    },
+    {
+      "input": "jacket",
+      "output": "jackets"
+    },
+    {
+      "input": "printer",
+      "output": "printers"
+    },
+    {
+      "input": "grater",
+      "output": "graters"
+    },
+    {
+      "input": "tree",
+      "output": "trees"
+    },
+    {
+      "input": "comb",
+      "output": "combs"
+    },
+    {
+      "input": "mascara",
+      "output": "mascaras"
+    },
+    {
+      "input": "racquet",
+      "output": "racquets"
+    },
+    {
+      "input": "paint",
+      "output": "paints"
+    },
+    {
+      "input": "eraser",
+      "output": "erasers"
+    },
+    {
+      "input": "peeler",
+      "output": "peelers"
+    },
+    {
+      "input": "television",
+      "output": "televisions"
+    },
+    {
+      "input": "ladle",
+      "output": "ladles"
+    },
+    {
+      "input": "shoes",
+      "output": "shoes"
+    },
+    {
+      "input": "picture",
+      "output": "pictures"
+    },
+    {
+      "input": "mouse",
+      "output": "mice"
+    },
+    {
+      "input": "brush",
+      "output": "brushes"
+    },
+    {
+      "input": "perfume",
+      "output": "perfumes"
+    },
+    {
+      "input": "lawnmower",
+      "output": "lawnmowers"
+    },
+    {
+      "input": "radio",
+      "output": "radios"
+    },
+    {
+      "input": "screwdriver",
+      "output": "screwdrivers"
+    },
+    {
+      "input": "door",
+      "output": "doors"
+    },
+    {
+      "input": "car",
+      "output": "cars"
+    },
+    {
+      "input": "cloud",
+      "output": "clouds"
+    },
+    {
+      "input": "marker",
+      "output": "markers"
+    },
+    {
+      "input": "ruler",
+      "output": "rulers"
+    },
+    {
+      "input": "bottle",
+      "output": "bottles"
+    },
+    {
+      "input": "corkscrew",
+      "output": "corkscrews"
+    },
+    {
+      "input": "mixer",
+      "output": "mixers"
+    },
+    {
+      "input": "magazine",
+      "output": "magazines"
+    },
+    {
+      "input": "key",
+      "output": "keys"
+    },
+    {
+      "input": "lock",
+      "output": "locks"
+    },
+    {
+      "input": "tongs",
+      "output": "tongs"
+    },
+    {
+      "input": "pot",
+      "output": "pots"
+    },
+    {
+      "input": "socks",
+      "output": "sockss"
+    },
+    {
+      "input": "bowl",
+      "output": "bowls"
+    },
+    {
+      "input": "notebook",
+      "output": "notebooks"
+    },
+    {
+      "input": "pen",
+      "output": "pens"
+    },
+    {
+      "input": "briefcase",
+      "output": "briefcases"
+    },
+    {
+      "input": "teapot",
+      "output": "teapots"
+    },
+    {
+      "input": "purse",
+      "output": "purses"
+    },
+    {
+      "input": "forest",
+      "output": "forests"
+    },
+    {
+      "input": "chair",
+      "output": "chairs"
+    },
+    {
+      "input": "whisk",
+      "output": "whisks"
+    },
+    {
+      "input": "knife",
+      "output": "knives"
+    },
+    {
+      "input": "glue",
+      "output": "glues"
+    },
+    {
+      "input": "refrigerator",
+      "output": "refrigerators"
+    },
+    {
+      "input": "flower",
+      "output": "flowers"
+    }
+  ],
+  "dummy_test": {
+    "input": "river",
+    "output": "rivers"
+  },
+  "valid": [
+    {
+      "input": "river",
+      "output": "rivers"
+    },
+    {
+      "input": "calendar",
+      "output": "calendars"
+    },
+    {
+      "input": "conditioner",
+      "output": "conditioners"
+    },
+    {
+      "input": "stove",
+      "output": "stoves"
+    },
+    {
+      "input": "blush",
+      "output": "blushes"
+    },
+    {
+      "input": "iron",
+      "output": "irons"
+    },
+    {
+      "input": "paper",
+      "output": "papers"
+    },
+    {
+      "input": "freezer",
+      "output": "freezers"
+    },
+    {
+      "input": "scissors",
+      "output": "scissors"
+    },
+    {
+      "input": "jar",
+      "output": "jars"
+    },
+    {
+      "input": "shampoo",
+      "output": "shampoos"
+    },
+    {
+      "input": "microwave",
+      "output": "microwaves"
+    },
+    {
+      "input": "hose",
+      "output": "hoses"
+    },
+    {
+      "input": "flashlight",
+      "output": "flashlights"
+    },
+    {
+      "input": "mop",
+      "output": "mops"
+    },
+    {
+      "input": "oven",
+      "output": "ovens"
+    },
+    {
+      "input": "headphones",
+      "output": "headphones"
+    },
+    {
+      "input": "pants",
+      "output": "pants"
+    },
+    {
+      "input": "sandal",
+      "output": "sandals"
+    },
+    {
+      "input": "sock",
+      "output": "socks"
+    },
+    {
+      "input": "ocean",
+      "output": "oceans"
+    },
+    {
+      "input": "house",
+      "output": "houses"
+    },
+    {
+      "input": "slipper",
+      "output": "slippers"
+    },
+    {
+      "input": "colander",
+      "output": "colanders"
+    },
+    {
+      "input": "phone",
+      "output": "phones"
+    },
+    {
+      "input": "kettle",
+      "output": "kettles"
+    },
+    {
+      "input": "stapler",
+      "output": "staplers"
+    },
+    {
+      "input": "speaker",
+      "output": "speakers"
+    },
+    {
+      "input": "hairdryer",
+      "output": "hairdryers"
+    },
+    {
+      "input": "hair gel",
+      "output": "hair gels"
+    },
+    {
+      "input": "bag",
+      "output": "bags"
+    },
+    {
+      "input": "keychain",
+      "output": "keychains"
+    },
+    {
+      "input": "beach",
+      "output": "beaches"
+    },
+    {
+      "input": "lotion",
+      "output": "lotions"
+    },
+    {
+      "input": "roller",
+      "output": "rollers"
+    },
+    {
+      "input": "mountain",
+      "output": "mountains"
+    },
+    {
+      "input": "rake",
+      "output": "rakes"
+    },
+    {
+      "input": "pencil",
+      "output": "pencils"
+    },
+    {
+      "input": "bat",
+      "output": "bats"
+    },
+    {
+      "input": "sofa",
+      "output": "sofas"
+    },
+    {
+      "input": "bicycle",
+      "output": "bicycles"
+    },
+    {
+      "input": "train",
+      "output": "trains"
+    },
+    {
+      "input": "backpack",
+      "output": "backpacks"
+    },
+    {
+      "input": "valley",
+      "output": "valleys"
+    },
+    {
+      "input": "rag",
+      "output": "rags"
+    },
+    {
+      "input": "pan",
+      "output": "pans"
+    },
+    {
+      "input": "broom",
+      "output": "brooms"
+    },
+    {
+      "input": "helmet",
+      "output": "helmets"
+    },
+    {
+      "input": "mattress",
+      "output": "mattresses"
+    },
+    {
+      "input": "bucket",
+      "output": "buckets"
+    },
+    {
+      "input": "soap",
+      "output": "soaps"
+    },
+    {
+      "input": "bolt",
+      "output": "bolts"
+    },
+    {
+      "input": "doll",
+      "output": "dolls"
+    },
+    {
+      "input": "washer",
+      "output": "washers"
+    },
+    {
+      "input": "mug",
+      "output": "mugs"
+    },
+    {
+      "input": "sun",
+      "output": "suns"
+    },
+    {
+      "input": "grill",
+      "output": "grills"
+    },
+    {
+      "input": "desk",
+      "output": "desks"
+    }
+  ]
+}

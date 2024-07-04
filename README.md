@@ -49,3 +49,5 @@ bash ./script/gptj_optimization.sh
 ```
 bash ./script/gptj_aggregation.sh
 ```
+
+# Feel free to open an issue if you have any questions
